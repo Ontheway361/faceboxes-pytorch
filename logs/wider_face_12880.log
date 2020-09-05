@@ -1,0 +1,19 @@
+Parallel mode is going ...
+Model loading was finished ...
+full data is loading, there are 12876 samples ...
+Data loading was finished ...
+epoch : 00|300, iter : 0100|0403,  loss_l : 4.1961, loss_c : 4.1180
+epoch : 00|300, iter : 0200|0403,  loss_l : 4.0973, loss_c : 3.6401
+epoch : 00|300, iter : 0300|0403,  loss_l : 3.9939, loss_c : 3.4790
+epoch : 00|300, iter : 0400|0403,  loss_l : 3.8759, loss_c : 3.3926
+ave_loss_l : 3.8714, ave_loss_c : 3.3901
+single epoch costs 15.1436 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 01|300, iter : 0100|0403,  loss_l : 3.2306, loss_c : 3.0746
+epoch : 01|300, iter : 0200|0403,  loss_l : 3.1321, loss_c : 3.0525
+epoch : 01|300, iter : 0300|0403,  loss_l : 3.0822, loss_c : 3.0281
+epoch : 01|300, iter : 0400|0403,  loss_l : 3.0145, loss_c : 2.9985
+ave_loss_l : 3.0121, ave_loss_c : 2.9972
+single epoch costs 12.7707 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 02|300, iter : 0100|0403,  loss_l : 2.7156, loss_c : 2.8562
