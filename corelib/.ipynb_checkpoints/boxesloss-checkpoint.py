@@ -56,28 +56,6 @@ class PriorBox(object):
 
 
 class MultiBoxLoss(nn.Module):
-    """
-    SSD Weighted Loss Function
-    Compute Targets:
-        1) Produce Confidence Target Indices by matching  ground truth boxes
-           with (default) 'priorboxes' that have jaccard index > threshold parameter
-           (default threshold: 0.5).
-        2) Produce localization target by 'encoding' variance into offsets of ground
-           truth boxes and their matched  'priorboxes'.
-        3) Hard negative mining to filter the excessive number of negative examples
-           that comes with using a large number of default bounding boxes.
-           (default negative:positive ratio 3:1)
-    Objective Loss:
-        L(x,c,l,g) = (Lconf(x, c) + αLloc(x,l,g)) / N
-        Where, Lconf is the CrossEntropy Loss and Lloc is the SmoothL1 Loss
-        weighted by α which is set to 1 by cross val.
-        Args:
-            c: class confidences,
-            l: predicted boxes,
-            g: ground truth boxes
-            N: number of matched default boxes
-        See: https://arxiv.org/pdf/1512.02325.pdf for more details.
-    """
 
     def __init__(self, args):
         super(MultiBoxLoss, self).__init__()
@@ -87,22 +65,11 @@ class MultiBoxLoss(nn.Module):
             self.priors = self.priors.cuda()
 
     def forward(self, predictions, targets):
-        """Multibox Loss
-        Args:
-            predictions (tuple): A tuple containing loc preds, conf preds,
-            and prior boxes from SSD net.
-                conf shape: torch.size(batch_size, num_priors, num_classes)
-                 loc shape: torch.size(batch_size, num_priors, 4)
-
-            ground_truth (tensor): Ground truth boxes and labels for a batch,
-                shape: [batch_size,num_objs,5] (last idx is the label).
-        """
-
+        
         loc_data, conf_data = predictions
         num_images = loc_data.size(0)
         num_priors = (self.priors.size(0))
 
-        # match priors (default boxes) and ground truth boxes
         loc_t = torch.Tensor(num_images, num_priors, 4)
         conf_t = torch.LongTensor(num_images, num_priors)
         priors = self.priors.data
@@ -137,11 +104,12 @@ class MultiBoxLoss(nn.Module):
         # Confidence Loss Including Positive and Negative Examples
         pos_idx = pos.unsqueeze(2).expand_as(conf_data)
         neg_idx = neg.unsqueeze(2).expand_as(conf_data)
-        conf_p = conf_data[(pos_idx+neg_idx).gt(0)].view(-1, self.args.num_classes)
-        targets_weighted = conf_t[(pos+neg).gt(0)]
+        
+        conf_p = conf_data[(pos_idx + neg_idx).gt(0)].view(-1, self.args.num_classes)
+        targets_weighted = conf_t[(pos + neg).gt(0)]
         loss_c = F.cross_entropy(conf_p, targets_weighted, reduction='sum')
 
-        # Sum of losses: L(x,c,l,g) = (Lconf(x, c) + αLloc(x,l,g)) / N
+        # Sum of losses: L(x,c,l,g) = (Lconf(x, c) + α * Lloc(x,l,g)) / N
         N = max(num_pos.data.sum().float(), 1)
         loss_l /= N
         loss_c /= N
