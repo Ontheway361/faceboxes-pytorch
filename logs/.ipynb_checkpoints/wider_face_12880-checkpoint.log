@@ -1,0 +1,35 @@
+Parallel mode is going ...
+Model loading was finished ...
+full data is loading, there are 12876 samples ...
+Data loading was finished ...
+epoch : 00|300, iter : 0050|0202,  loss_l : 4.2539, loss_c : 4.8230
+epoch : 00|300, iter : 0100|0202,  loss_l : 4.1337, loss_c : 4.0102
+epoch : 00|300, iter : 0150|0202,  loss_l : 4.0467, loss_c : 3.7225
+epoch : 00|300, iter : 0200|0202,  loss_l : 3.9580, loss_c : 3.5793
+ave_loss_l : 3.9538, ave_loss_c : 3.5748
+single epoch costs 12.8095 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 01|300, iter : 0050|0202,  loss_l : 3.4809, loss_c : 3.1203
+epoch : 01|300, iter : 0100|0202,  loss_l : 3.3788, loss_c : 3.0976
+epoch : 01|300, iter : 0150|0202,  loss_l : 3.2952, loss_c : 3.0725
+epoch : 01|300, iter : 0200|0202,  loss_l : 3.2383, loss_c : 3.0534
+ave_loss_l : 3.2370, ave_loss_c : 3.0532
+single epoch costs 12.7093 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 02|300, iter : 0050|0202,  loss_l : 2.9331, loss_c : 2.9334
+epoch : 02|300, iter : 0100|0202,  loss_l : 2.8986, loss_c : 2.9137
+epoch : 02|300, iter : 0150|0202,  loss_l : 2.8633, loss_c : 2.9014
+epoch : 02|300, iter : 0200|0202,  loss_l : 2.8124, loss_c : 2.8766
+ave_loss_l : 2.8115, ave_loss_c : 2.8768
+single epoch costs 12.7084 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 03|300, iter : 0050|0202,  loss_l : 2.7234, loss_c : 2.8338
+epoch : 03|300, iter : 0100|0202,  loss_l : 2.6459, loss_c : 2.7998
+epoch : 03|300, iter : 0150|0202,  loss_l : 2.6168, loss_c : 2.7902
+epoch : 03|300, iter : 0200|0202,  loss_l : 2.6021, loss_c : 2.7793
+ave_loss_l : 2.5986, ave_loss_c : 2.7775
+single epoch costs 12.7140 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 04|300, iter : 0050|0202,  loss_l : 2.4842, loss_c : 2.7200
+epoch : 04|300, iter : 0100|0202,  loss_l : 2.4303, loss_c : 2.7002
+epoch : 04|300, iter : 0150|0202,  loss_l : 2.4263, loss_c : 2.6942

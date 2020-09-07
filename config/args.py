@@ -15,7 +15,7 @@ def train_args():
     parser = argparse.ArgumentParser(description='FaceBoxes Training')
 
     # platform
-    parser.add_argument('--use_gpu', type=bool, default=False)
+    parser.add_argument('--use_gpu', type=bool, default=True)
     parser.add_argument('--gpu_ids', type=list, default=[0, 1])
     parser.add_argument('--workers', type=int,  default=0)
 
@@ -30,7 +30,7 @@ def train_args():
     parser.add_argument('--resume',     type=str,   default='')
     parser.add_argument('--start_epoch',type=int,   default=0)
     parser.add_argument('--end_epoch',  type=int,   default=300)
-    parser.add_argument('--batch_size', type=int,   default=32)   # TODO
+    parser.add_argument('--batch_size', type=int,   default=64)   # TODO
     parser.add_argument('--lr',         type=float, default=1e-3)
     parser.add_argument('--gamma',      type=float, default=0.1)
     parser.add_argument('--momentum',   type=float, default=0.9)
@@ -39,8 +39,8 @@ def train_args():
 
     # files & path
     parser.add_argument('--save_freq', type=int, default=5)
-    parser.add_argument('--print_freq',type=int, default=100)   # (n_rows=12880, bz=32, n_iters=403)
-    parser.add_argument('--is_debug',  type=bool,default=True)  # TODO
+    parser.add_argument('--print_freq',type=int, default=50)   # (n_rows=12880, bz=32, n_iters=403)
+    parser.add_argument('--is_debug',  type=bool,default=False)  # TODO
     parser.add_argument('--voc_dir',   type=str, default=osp.join(root_dir, 'widerface'))
     parser.add_argument('--save_to',   type=str, default=osp.join(weights_dir, 'faceboxes'))
     args = parser.parse_args()

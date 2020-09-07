@@ -90,8 +90,7 @@ def match(gt_boxes, priors, labels, overlap_thresh, variances):
 
     overlaps = jaccard(gt_boxes, point_form(priors)) # (n_gtboxes, n_priors)
     best_prior_overlap, best_prior_idx = overlaps.max(1, keepdim=True) # (n_gtboxes, 1)
-    valid_gt_idx = best_prior_overlap[:, 0] >= 0.2
-    best_prior_idx_filter = best_prior_idx[valid_gt_idx, :]
+    best_prior_idx_filter = best_prior_idx[best_prior_overlap[:, 0] >= 0.2, :]
     if best_prior_idx_filter.shape[0] <= 0:
         return 0, 0
     best_prior_idx.squeeze_(1)
@@ -102,12 +101,11 @@ def match(gt_boxes, priors, labels, overlap_thresh, variances):
     best_gtboxes_idx.squeeze_(0)
     best_gtboxes_overlap.squeeze_(0)
     best_gtboxes_overlap.index_fill_(0, best_prior_idx_filter, 2)
-
     for j in range(best_prior_idx.size(0)):
         best_gtboxes_idx[best_prior_idx[j]] = j
-    matches = gt_boxes[best_gtboxes_idx]    # (n_priors, 4)
-    loc = encode(matches, priors, variances)
-    conf = labels[best_gtboxes_idx]          # Shape: [num_priors]
+    matches = gt_boxes[best_gtboxes_idx]     # (n_priors, 4)
+    loc = encode(matches, priors, variances) # (n_priors, 4) | (gx, gy, gw, gh)
+    conf = labels[best_gtboxes_idx]          # (n_priors, 1)
     conf[best_gtboxes_overlap < overlap_thresh] = 0  # label as background
     return loc, conf
 
@@ -121,7 +119,7 @@ def encode(matched, priors, variances = [0.1, 0.2]):
 
 
 # Adapted from https://github.com/Hakuyume/chainer-ssd
-def decode(loc, priors, variances):
+def decode(loc, priors, variances = [0.1, 0.2]):
     """Decode locations from predictions using priors to undo
     the encoding we did for offset regression at train time.
     Args:
@@ -143,14 +141,8 @@ def decode(loc, priors, variances):
 
 
 def log_sum_exp(x):
-    """Utility function for computing log_sum_exp while determining
-    This will be used to determine unaveraged confidence loss across
-    all examples in a batch.
-    Args:
-        x (Variable(tensor)): conf_preds from conf layers
-    """
     x_max = x.data.max()
-    return torch.log(torch.sum(torch.exp(x-x_max), 1, keepdim=True)) + x_max
+    return torch.log(torch.sum(torch.exp(x - x_max), 1, keepdim=True)) + x_max
 
 
 # Original author: Francisco Massa:
