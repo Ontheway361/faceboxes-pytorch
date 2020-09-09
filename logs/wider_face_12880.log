@@ -589,3 +589,1324 @@ epoch : 87|300, iter : 0200|0202,  loss_l : 1.5177, loss_c : 1.9723
 ave_loss_l : 1.5204, ave_loss_c : 1.9753
 single epoch costs 12.7822 mins
 **************** Yahoo, SOTA model was updated ****************
+epoch : 88|300, iter : 0050|0202,  loss_l : 1.5630, loss_c : 2.0098
+epoch : 88|300, iter : 0100|0202,  loss_l : 1.5583, loss_c : 2.0063
+epoch : 88|300, iter : 0150|0202,  loss_l : 1.5365, loss_c : 1.9934
+epoch : 88|300, iter : 0200|0202,  loss_l : 1.5266, loss_c : 1.9843
+ave_loss_l : 1.5288, ave_loss_c : 1.9859
+single epoch costs 12.7503 mins
+epoch : 89|300, iter : 0050|0202,  loss_l : 1.4921, loss_c : 1.9444
+epoch : 89|300, iter : 0100|0202,  loss_l : 1.5275, loss_c : 1.9810
+epoch : 89|300, iter : 0150|0202,  loss_l : 1.5315, loss_c : 1.9848
+epoch : 89|300, iter : 0200|0202,  loss_l : 1.5314, loss_c : 1.9836
+ave_loss_l : 1.5332, ave_loss_c : 1.9841
+single epoch costs 12.6915 mins
+epoch : 90|300, iter : 0050|0202,  loss_l : 1.4919, loss_c : 1.9432
+epoch : 90|300, iter : 0100|0202,  loss_l : 1.5147, loss_c : 1.9654
+epoch : 90|300, iter : 0150|0202,  loss_l : 1.5101, loss_c : 1.9632
+epoch : 90|300, iter : 0200|0202,  loss_l : 1.5243, loss_c : 1.9768
+ave_loss_l : 1.5220, ave_loss_c : 1.9757
+single epoch costs 12.7324 mins
+epoch : 91|300, iter : 0050|0202,  loss_l : 1.5445, loss_c : 2.0114
+epoch : 91|300, iter : 0100|0202,  loss_l : 1.5438, loss_c : 2.0072
+epoch : 91|300, iter : 0150|0202,  loss_l : 1.5429, loss_c : 2.0067
+epoch : 91|300, iter : 0200|0202,  loss_l : 1.5373, loss_c : 1.9991
+ave_loss_l : 1.5367, ave_loss_c : 2.0000
+single epoch costs 12.7672 mins
+epoch : 92|300, iter : 0050|0202,  loss_l : 1.5147, loss_c : 1.9868
+epoch : 92|300, iter : 0100|0202,  loss_l : 1.5298, loss_c : 1.9919
+epoch : 92|300, iter : 0150|0202,  loss_l : 1.5382, loss_c : 1.9968
+epoch : 92|300, iter : 0200|0202,  loss_l : 1.5369, loss_c : 1.9897
+ave_loss_l : 1.5373, ave_loss_c : 1.9893
+single epoch costs 12.8405 mins
+epoch : 93|300, iter : 0050|0202,  loss_l : 1.5162, loss_c : 1.9699
+epoch : 93|300, iter : 0100|0202,  loss_l : 1.5298, loss_c : 1.9920
+epoch : 93|300, iter : 0150|0202,  loss_l : 1.5239, loss_c : 1.9814
+epoch : 93|300, iter : 0200|0202,  loss_l : 1.5236, loss_c : 1.9828
+ave_loss_l : 1.5210, ave_loss_c : 1.9814
+single epoch costs 12.7896 mins
+epoch : 94|300, iter : 0050|0202,  loss_l : 1.5286, loss_c : 1.9890
+epoch : 94|300, iter : 0100|0202,  loss_l : 1.5565, loss_c : 2.0085
+epoch : 94|300, iter : 0150|0202,  loss_l : 1.5372, loss_c : 1.9967
+epoch : 94|300, iter : 0200|0202,  loss_l : 1.5254, loss_c : 1.9814
+ave_loss_l : 1.5226, ave_loss_c : 1.9784
+single epoch costs 12.7818 mins
+epoch : 95|300, iter : 0050|0202,  loss_l : 1.5255, loss_c : 1.9787
+epoch : 95|300, iter : 0100|0202,  loss_l : 1.5370, loss_c : 1.9889
+epoch : 95|300, iter : 0150|0202,  loss_l : 1.5376, loss_c : 1.9827
+epoch : 95|300, iter : 0200|0202,  loss_l : 1.5270, loss_c : 1.9744
+ave_loss_l : 1.5283, ave_loss_c : 1.9757
+single epoch costs 12.7621 mins
+epoch : 96|300, iter : 0050|0202,  loss_l : 1.5181, loss_c : 1.9772
+epoch : 96|300, iter : 0100|0202,  loss_l : 1.5074, loss_c : 1.9728
+epoch : 96|300, iter : 0150|0202,  loss_l : 1.5016, loss_c : 1.9648
+epoch : 96|300, iter : 0200|0202,  loss_l : 1.5084, loss_c : 1.9688
+ave_loss_l : 1.5063, ave_loss_c : 1.9671
+single epoch costs 12.7833 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 97|300, iter : 0050|0202,  loss_l : 1.5112, loss_c : 1.9783
+epoch : 97|300, iter : 0100|0202,  loss_l : 1.5299, loss_c : 1.9798
+epoch : 97|300, iter : 0150|0202,  loss_l : 1.5346, loss_c : 1.9831
+epoch : 97|300, iter : 0200|0202,  loss_l : 1.5208, loss_c : 1.9720
+ave_loss_l : 1.5222, ave_loss_c : 1.9739
+single epoch costs 12.7659 mins
+epoch : 98|300, iter : 0050|0202,  loss_l : 1.5651, loss_c : 2.0152
+epoch : 98|300, iter : 0100|0202,  loss_l : 1.5305, loss_c : 1.9832
+epoch : 98|300, iter : 0150|0202,  loss_l : 1.5258, loss_c : 1.9728
+epoch : 98|300, iter : 0200|0202,  loss_l : 1.5157, loss_c : 1.9647
+ave_loss_l : 1.5160, ave_loss_c : 1.9669
+single epoch costs 12.7941 mins
+epoch : 99|300, iter : 0050|0202,  loss_l : 1.4907, loss_c : 1.9553
+epoch : 99|300, iter : 0100|0202,  loss_l : 1.5234, loss_c : 1.9926
+epoch : 99|300, iter : 0150|0202,  loss_l : 1.5195, loss_c : 1.9843
+epoch : 99|300, iter : 0200|0202,  loss_l : 1.5101, loss_c : 1.9756
+ave_loss_l : 1.5075, ave_loss_c : 1.9754
+single epoch costs 12.7370 mins
+epoch : 100|300, iter : 0050|0202,  loss_l : 1.4851, loss_c : 1.9768
+epoch : 100|300, iter : 0100|0202,  loss_l : 1.4862, loss_c : 1.9615
+epoch : 100|300, iter : 0150|0202,  loss_l : 1.4953, loss_c : 1.9689
+epoch : 100|300, iter : 0200|0202,  loss_l : 1.4993, loss_c : 1.9692
+ave_loss_l : 1.5015, ave_loss_c : 1.9699
+single epoch costs 12.7635 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 101|300, iter : 0050|0202,  loss_l : 1.5228, loss_c : 1.9661
+epoch : 101|300, iter : 0100|0202,  loss_l : 1.5079, loss_c : 1.9594
+epoch : 101|300, iter : 0150|0202,  loss_l : 1.5051, loss_c : 1.9636
+epoch : 101|300, iter : 0200|0202,  loss_l : 1.5020, loss_c : 1.9623
+ave_loss_l : 1.5018, ave_loss_c : 1.9622
+single epoch costs 12.7694 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 102|300, iter : 0050|0202,  loss_l : 1.5259, loss_c : 1.9639
+epoch : 102|300, iter : 0100|0202,  loss_l : 1.5073, loss_c : 1.9551
+epoch : 102|300, iter : 0150|0202,  loss_l : 1.5017, loss_c : 1.9558
+epoch : 102|300, iter : 0200|0202,  loss_l : 1.4908, loss_c : 1.9521
+ave_loss_l : 1.4910, ave_loss_c : 1.9528
+single epoch costs 12.7610 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 103|300, iter : 0050|0202,  loss_l : 1.5328, loss_c : 1.9783
+epoch : 103|300, iter : 0100|0202,  loss_l : 1.5384, loss_c : 1.9869
+epoch : 103|300, iter : 0150|0202,  loss_l : 1.5353, loss_c : 1.9813
+epoch : 103|300, iter : 0200|0202,  loss_l : 1.5183, loss_c : 1.9657
+ave_loss_l : 1.5172, ave_loss_c : 1.9632
+single epoch costs 12.7214 mins
+epoch : 104|300, iter : 0050|0202,  loss_l : 1.4661, loss_c : 1.9157
+epoch : 104|300, iter : 0100|0202,  loss_l : 1.4624, loss_c : 1.9155
+epoch : 104|300, iter : 0150|0202,  loss_l : 1.4802, loss_c : 1.9339
+epoch : 104|300, iter : 0200|0202,  loss_l : 1.4949, loss_c : 1.9499
+ave_loss_l : 1.4935, ave_loss_c : 1.9481
+single epoch costs 12.7885 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 105|300, iter : 0050|0202,  loss_l : 1.4760, loss_c : 1.9327
+epoch : 105|300, iter : 0100|0202,  loss_l : 1.4909, loss_c : 1.9432
+epoch : 105|300, iter : 0150|0202,  loss_l : 1.4959, loss_c : 1.9470
+epoch : 105|300, iter : 0200|0202,  loss_l : 1.4961, loss_c : 1.9500
+ave_loss_l : 1.4943, ave_loss_c : 1.9483
+single epoch costs 12.7501 mins
+epoch : 106|300, iter : 0050|0202,  loss_l : 1.4747, loss_c : 1.9430
+epoch : 106|300, iter : 0100|0202,  loss_l : 1.4858, loss_c : 1.9505
+epoch : 106|300, iter : 0150|0202,  loss_l : 1.4725, loss_c : 1.9377
+epoch : 106|300, iter : 0200|0202,  loss_l : 1.4857, loss_c : 1.9508
+ave_loss_l : 1.4841, ave_loss_c : 1.9500
+single epoch costs 12.7434 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 107|300, iter : 0050|0202,  loss_l : 1.4621, loss_c : 1.9349
+epoch : 107|300, iter : 0100|0202,  loss_l : 1.4783, loss_c : 1.9469
+epoch : 107|300, iter : 0150|0202,  loss_l : 1.4997, loss_c : 1.9607
+epoch : 107|300, iter : 0200|0202,  loss_l : 1.5009, loss_c : 1.9617
+ave_loss_l : 1.5018, ave_loss_c : 1.9604
+single epoch costs 12.8667 mins
+epoch : 108|300, iter : 0050|0202,  loss_l : 1.5114, loss_c : 1.9596
+epoch : 108|300, iter : 0100|0202,  loss_l : 1.4822, loss_c : 1.9444
+epoch : 108|300, iter : 0150|0202,  loss_l : 1.4922, loss_c : 1.9562
+epoch : 108|300, iter : 0200|0202,  loss_l : 1.4838, loss_c : 1.9520
+ave_loss_l : 1.4873, ave_loss_c : 1.9542
+single epoch costs 12.7849 mins
+epoch : 109|300, iter : 0050|0202,  loss_l : 1.5041, loss_c : 1.9357
+epoch : 109|300, iter : 0100|0202,  loss_l : 1.5297, loss_c : 1.9688
+epoch : 109|300, iter : 0150|0202,  loss_l : 1.4951, loss_c : 1.9427
+epoch : 109|300, iter : 0200|0202,  loss_l : 1.4996, loss_c : 1.9499
+ave_loss_l : 1.4986, ave_loss_c : 1.9494
+single epoch costs 12.8510 mins
+epoch : 110|300, iter : 0050|0202,  loss_l : 1.5064, loss_c : 1.9513
+epoch : 110|300, iter : 0100|0202,  loss_l : 1.4874, loss_c : 1.9345
+epoch : 110|300, iter : 0150|0202,  loss_l : 1.5067, loss_c : 1.9492
+epoch : 110|300, iter : 0200|0202,  loss_l : 1.5087, loss_c : 1.9579
+ave_loss_l : 1.5068, ave_loss_c : 1.9559
+single epoch costs 12.8411 mins
+epoch : 111|300, iter : 0050|0202,  loss_l : 1.4745, loss_c : 1.9351
+epoch : 111|300, iter : 0100|0202,  loss_l : 1.4765, loss_c : 1.9366
+epoch : 111|300, iter : 0150|0202,  loss_l : 1.4766, loss_c : 1.9364
+epoch : 111|300, iter : 0200|0202,  loss_l : 1.4799, loss_c : 1.9429
+ave_loss_l : 1.4815, ave_loss_c : 1.9453
+single epoch costs 12.7734 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 112|300, iter : 0050|0202,  loss_l : 1.4683, loss_c : 1.9273
+epoch : 112|300, iter : 0100|0202,  loss_l : 1.4800, loss_c : 1.9409
+epoch : 112|300, iter : 0150|0202,  loss_l : 1.4782, loss_c : 1.9408
+epoch : 112|300, iter : 0200|0202,  loss_l : 1.4898, loss_c : 1.9466
+ave_loss_l : 1.4906, ave_loss_c : 1.9477
+single epoch costs 12.7875 mins
+epoch : 113|300, iter : 0050|0202,  loss_l : 1.5136, loss_c : 1.9689
+epoch : 113|300, iter : 0100|0202,  loss_l : 1.4848, loss_c : 1.9448
+epoch : 113|300, iter : 0150|0202,  loss_l : 1.4911, loss_c : 1.9561
+epoch : 113|300, iter : 0200|0202,  loss_l : 1.4972, loss_c : 1.9603
+ave_loss_l : 1.4931, ave_loss_c : 1.9577
+single epoch costs 12.7879 mins
+epoch : 114|300, iter : 0050|0202,  loss_l : 1.4696, loss_c : 1.9419
+epoch : 114|300, iter : 0100|0202,  loss_l : 1.4799, loss_c : 1.9422
+epoch : 114|300, iter : 0150|0202,  loss_l : 1.4673, loss_c : 1.9250
+epoch : 114|300, iter : 0200|0202,  loss_l : 1.4771, loss_c : 1.9367
+ave_loss_l : 1.4771, ave_loss_c : 1.9363
+single epoch costs 12.7654 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 115|300, iter : 0050|0202,  loss_l : 1.4484, loss_c : 1.9148
+epoch : 115|300, iter : 0100|0202,  loss_l : 1.4656, loss_c : 1.9207
+epoch : 115|300, iter : 0150|0202,  loss_l : 1.4903, loss_c : 1.9496
+epoch : 115|300, iter : 0200|0202,  loss_l : 1.4769, loss_c : 1.9352
+ave_loss_l : 1.4756, ave_loss_c : 1.9343
+single epoch costs 12.8551 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 116|300, iter : 0050|0202,  loss_l : 1.4874, loss_c : 1.9488
+epoch : 116|300, iter : 0100|0202,  loss_l : 1.4708, loss_c : 1.9322
+epoch : 116|300, iter : 0150|0202,  loss_l : 1.4843, loss_c : 1.9452
+epoch : 116|300, iter : 0200|0202,  loss_l : 1.4908, loss_c : 1.9513
+ave_loss_l : 1.4908, ave_loss_c : 1.9500
+single epoch costs 12.7655 mins
+epoch : 117|300, iter : 0050|0202,  loss_l : 1.4818, loss_c : 1.9358
+epoch : 117|300, iter : 0100|0202,  loss_l : 1.4606, loss_c : 1.9203
+epoch : 117|300, iter : 0150|0202,  loss_l : 1.4601, loss_c : 1.9225
+epoch : 117|300, iter : 0200|0202,  loss_l : 1.4646, loss_c : 1.9239
+ave_loss_l : 1.4686, ave_loss_c : 1.9268
+single epoch costs 12.7732 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 118|300, iter : 0050|0202,  loss_l : 1.4494, loss_c : 1.9037
+epoch : 118|300, iter : 0100|0202,  loss_l : 1.4663, loss_c : 1.9223
+epoch : 118|300, iter : 0150|0202,  loss_l : 1.4879, loss_c : 1.9428
+epoch : 118|300, iter : 0200|0202,  loss_l : 1.4770, loss_c : 1.9324
+ave_loss_l : 1.4797, ave_loss_c : 1.9348
+single epoch costs 12.6910 mins
+epoch : 119|300, iter : 0050|0202,  loss_l : 1.4791, loss_c : 1.9562
+epoch : 119|300, iter : 0100|0202,  loss_l : 1.4891, loss_c : 1.9475
+epoch : 119|300, iter : 0150|0202,  loss_l : 1.4982, loss_c : 1.9508
+epoch : 119|300, iter : 0200|0202,  loss_l : 1.4769, loss_c : 1.9346
+ave_loss_l : 1.4780, ave_loss_c : 1.9371
+single epoch costs 12.6801 mins
+epoch : 120|300, iter : 0050|0202,  loss_l : 1.4692, loss_c : 1.9298
+epoch : 120|300, iter : 0100|0202,  loss_l : 1.5081, loss_c : 1.9599
+epoch : 120|300, iter : 0150|0202,  loss_l : 1.4988, loss_c : 1.9549
+epoch : 120|300, iter : 0200|0202,  loss_l : 1.4887, loss_c : 1.9456
+ave_loss_l : 1.4886, ave_loss_c : 1.9455
+single epoch costs 12.7672 mins
+epoch : 121|300, iter : 0050|0202,  loss_l : 1.4520, loss_c : 1.9049
+epoch : 121|300, iter : 0100|0202,  loss_l : 1.4610, loss_c : 1.9186
+epoch : 121|300, iter : 0150|0202,  loss_l : 1.4707, loss_c : 1.9258
+epoch : 121|300, iter : 0200|0202,  loss_l : 1.4770, loss_c : 1.9353
+ave_loss_l : 1.4805, ave_loss_c : 1.9377
+single epoch costs 12.6597 mins
+epoch : 122|300, iter : 0050|0202,  loss_l : 1.4916, loss_c : 1.9533
+epoch : 122|300, iter : 0100|0202,  loss_l : 1.4711, loss_c : 1.9338
+epoch : 122|300, iter : 0150|0202,  loss_l : 1.4685, loss_c : 1.9349
+epoch : 122|300, iter : 0200|0202,  loss_l : 1.4703, loss_c : 1.9347
+ave_loss_l : 1.4687, ave_loss_c : 1.9327
+single epoch costs 12.7256 mins
+epoch : 123|300, iter : 0050|0202,  loss_l : 1.4936, loss_c : 1.9613
+epoch : 123|300, iter : 0100|0202,  loss_l : 1.4638, loss_c : 1.9360
+epoch : 123|300, iter : 0150|0202,  loss_l : 1.4586, loss_c : 1.9277
+epoch : 123|300, iter : 0200|0202,  loss_l : 1.4691, loss_c : 1.9343
+ave_loss_l : 1.4706, ave_loss_c : 1.9350
+single epoch costs 12.8016 mins
+epoch : 124|300, iter : 0050|0202,  loss_l : 1.4105, loss_c : 1.8928
+epoch : 124|300, iter : 0100|0202,  loss_l : 1.4425, loss_c : 1.9179
+epoch : 124|300, iter : 0150|0202,  loss_l : 1.4604, loss_c : 1.9275
+epoch : 124|300, iter : 0200|0202,  loss_l : 1.4674, loss_c : 1.9335
+ave_loss_l : 1.4671, ave_loss_c : 1.9337
+single epoch costs 12.6829 mins
+epoch : 125|300, iter : 0050|0202,  loss_l : 1.4829, loss_c : 1.9360
+epoch : 125|300, iter : 0100|0202,  loss_l : 1.4620, loss_c : 1.9284
+epoch : 125|300, iter : 0150|0202,  loss_l : 1.4691, loss_c : 1.9297
+epoch : 125|300, iter : 0200|0202,  loss_l : 1.4751, loss_c : 1.9322
+ave_loss_l : 1.4743, ave_loss_c : 1.9329
+single epoch costs 12.7837 mins
+epoch : 126|300, iter : 0050|0202,  loss_l : 1.4534, loss_c : 1.8961
+epoch : 126|300, iter : 0100|0202,  loss_l : 1.4551, loss_c : 1.9056
+epoch : 126|300, iter : 0150|0202,  loss_l : 1.4877, loss_c : 1.9380
+epoch : 126|300, iter : 0200|0202,  loss_l : 1.4752, loss_c : 1.9356
+ave_loss_l : 1.4709, ave_loss_c : 1.9312
+single epoch costs 12.7500 mins
+epoch : 127|300, iter : 0050|0202,  loss_l : 1.4661, loss_c : 1.9339
+epoch : 127|300, iter : 0100|0202,  loss_l : 1.4571, loss_c : 1.9193
+epoch : 127|300, iter : 0150|0202,  loss_l : 1.4609, loss_c : 1.9243
+epoch : 127|300, iter : 0200|0202,  loss_l : 1.4765, loss_c : 1.9358
+ave_loss_l : 1.4742, ave_loss_c : 1.9346
+single epoch costs 12.7884 mins
+epoch : 128|300, iter : 0050|0202,  loss_l : 1.4558, loss_c : 1.9273
+epoch : 128|300, iter : 0100|0202,  loss_l : 1.4623, loss_c : 1.9319
+epoch : 128|300, iter : 0150|0202,  loss_l : 1.4632, loss_c : 1.9308
+epoch : 128|300, iter : 0200|0202,  loss_l : 1.4595, loss_c : 1.9249
+ave_loss_l : 1.4564, ave_loss_c : 1.9226
+single epoch costs 12.8161 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 129|300, iter : 0050|0202,  loss_l : 1.4373, loss_c : 1.8954
+epoch : 129|300, iter : 0100|0202,  loss_l : 1.4560, loss_c : 1.9212
+epoch : 129|300, iter : 0150|0202,  loss_l : 1.4669, loss_c : 1.9298
+epoch : 129|300, iter : 0200|0202,  loss_l : 1.4606, loss_c : 1.9209
+ave_loss_l : 1.4628, ave_loss_c : 1.9235
+single epoch costs 12.7967 mins
+epoch : 130|300, iter : 0050|0202,  loss_l : 1.4880, loss_c : 1.9521
+epoch : 130|300, iter : 0100|0202,  loss_l : 1.4891, loss_c : 1.9464
+epoch : 130|300, iter : 0150|0202,  loss_l : 1.4680, loss_c : 1.9273
+epoch : 130|300, iter : 0200|0202,  loss_l : 1.4707, loss_c : 1.9291
+ave_loss_l : 1.4676, ave_loss_c : 1.9261
+single epoch costs 12.6886 mins
+epoch : 131|300, iter : 0050|0202,  loss_l : 1.4694, loss_c : 1.9256
+epoch : 131|300, iter : 0100|0202,  loss_l : 1.4733, loss_c : 1.9346
+epoch : 131|300, iter : 0150|0202,  loss_l : 1.4781, loss_c : 1.9360
+epoch : 131|300, iter : 0200|0202,  loss_l : 1.4591, loss_c : 1.9187
+ave_loss_l : 1.4582, ave_loss_c : 1.9186
+single epoch costs 12.7932 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 132|300, iter : 0050|0202,  loss_l : 1.4792, loss_c : 1.9408
+epoch : 132|300, iter : 0100|0202,  loss_l : 1.4735, loss_c : 1.9337
+epoch : 132|300, iter : 0150|0202,  loss_l : 1.4563, loss_c : 1.9178
+epoch : 132|300, iter : 0200|0202,  loss_l : 1.4575, loss_c : 1.9203
+ave_loss_l : 1.4550, ave_loss_c : 1.9187
+single epoch costs 12.7500 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 133|300, iter : 0050|0202,  loss_l : 1.4763, loss_c : 1.9283
+epoch : 133|300, iter : 0100|0202,  loss_l : 1.4703, loss_c : 1.9280
+epoch : 133|300, iter : 0150|0202,  loss_l : 1.4711, loss_c : 1.9292
+epoch : 133|300, iter : 0200|0202,  loss_l : 1.4554, loss_c : 1.9188
+ave_loss_l : 1.4560, ave_loss_c : 1.9189
+single epoch costs 12.7504 mins
+epoch : 134|300, iter : 0050|0202,  loss_l : 1.4560, loss_c : 1.9272
+epoch : 134|300, iter : 0100|0202,  loss_l : 1.4423, loss_c : 1.9122
+epoch : 134|300, iter : 0150|0202,  loss_l : 1.4496, loss_c : 1.9113
+epoch : 134|300, iter : 0200|0202,  loss_l : 1.4488, loss_c : 1.9135
+ave_loss_l : 1.4571, ave_loss_c : 1.9196
+single epoch costs 12.8309 mins
+epoch : 135|300, iter : 0050|0202,  loss_l : 1.4961, loss_c : 1.9501
+epoch : 135|300, iter : 0100|0202,  loss_l : 1.4828, loss_c : 1.9467
+epoch : 135|300, iter : 0150|0202,  loss_l : 1.4579, loss_c : 1.9282
+epoch : 135|300, iter : 0200|0202,  loss_l : 1.4568, loss_c : 1.9241
+ave_loss_l : 1.4568, ave_loss_c : 1.9256
+single epoch costs 12.7937 mins
+epoch : 136|300, iter : 0050|0202,  loss_l : 1.4872, loss_c : 1.9258
+epoch : 136|300, iter : 0100|0202,  loss_l : 1.4718, loss_c : 1.9220
+epoch : 136|300, iter : 0150|0202,  loss_l : 1.4638, loss_c : 1.9219
+epoch : 136|300, iter : 0200|0202,  loss_l : 1.4540, loss_c : 1.9198
+ave_loss_l : 1.4556, ave_loss_c : 1.9222
+single epoch costs 12.7889 mins
+epoch : 137|300, iter : 0050|0202,  loss_l : 1.4356, loss_c : 1.8991
+epoch : 137|300, iter : 0100|0202,  loss_l : 1.4386, loss_c : 1.9096
+epoch : 137|300, iter : 0150|0202,  loss_l : 1.4464, loss_c : 1.9094
+epoch : 137|300, iter : 0200|0202,  loss_l : 1.4546, loss_c : 1.9201
+ave_loss_l : 1.4538, ave_loss_c : 1.9206
+single epoch costs 12.7146 mins
+epoch : 138|300, iter : 0050|0202,  loss_l : 1.4136, loss_c : 1.9001
+epoch : 138|300, iter : 0100|0202,  loss_l : 1.4505, loss_c : 1.9230
+epoch : 138|300, iter : 0150|0202,  loss_l : 1.4514, loss_c : 1.9214
+epoch : 138|300, iter : 0200|0202,  loss_l : 1.4390, loss_c : 1.9114
+ave_loss_l : 1.4368, ave_loss_c : 1.9085
+single epoch costs 12.7409 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 139|300, iter : 0050|0202,  loss_l : 1.4813, loss_c : 1.9530
+epoch : 139|300, iter : 0100|0202,  loss_l : 1.4667, loss_c : 1.9260
+epoch : 139|300, iter : 0150|0202,  loss_l : 1.4657, loss_c : 1.9246
+epoch : 139|300, iter : 0200|0202,  loss_l : 1.4546, loss_c : 1.9172
+ave_loss_l : 1.4541, ave_loss_c : 1.9160
+single epoch costs 12.7397 mins
+epoch : 140|300, iter : 0050|0202,  loss_l : 1.4610, loss_c : 1.9355
+epoch : 140|300, iter : 0100|0202,  loss_l : 1.4893, loss_c : 1.9549
+epoch : 140|300, iter : 0150|0202,  loss_l : 1.4660, loss_c : 1.9344
+epoch : 140|300, iter : 0200|0202,  loss_l : 1.4597, loss_c : 1.9266
+ave_loss_l : 1.4578, ave_loss_c : 1.9252
+single epoch costs 12.8381 mins
+epoch : 141|300, iter : 0050|0202,  loss_l : 1.4403, loss_c : 1.9146
+epoch : 141|300, iter : 0100|0202,  loss_l : 1.4531, loss_c : 1.9203
+epoch : 141|300, iter : 0150|0202,  loss_l : 1.4562, loss_c : 1.9220
+epoch : 141|300, iter : 0200|0202,  loss_l : 1.4508, loss_c : 1.9133
+ave_loss_l : 1.4521, ave_loss_c : 1.9148
+single epoch costs 12.7147 mins
+epoch : 142|300, iter : 0050|0202,  loss_l : 1.4233, loss_c : 1.8864
+epoch : 142|300, iter : 0100|0202,  loss_l : 1.4388, loss_c : 1.8974
+epoch : 142|300, iter : 0150|0202,  loss_l : 1.4338, loss_c : 1.8989
+epoch : 142|300, iter : 0200|0202,  loss_l : 1.4405, loss_c : 1.9055
+ave_loss_l : 1.4385, ave_loss_c : 1.9055
+single epoch costs 12.8082 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 143|300, iter : 0050|0202,  loss_l : 1.4187, loss_c : 1.8873
+epoch : 143|300, iter : 0100|0202,  loss_l : 1.4293, loss_c : 1.9017
+epoch : 143|300, iter : 0150|0202,  loss_l : 1.4351, loss_c : 1.8963
+epoch : 143|300, iter : 0200|0202,  loss_l : 1.4410, loss_c : 1.9021
+ave_loss_l : 1.4374, ave_loss_c : 1.8988
+single epoch costs 12.8253 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 144|300, iter : 0050|0202,  loss_l : 1.4868, loss_c : 1.9221
+epoch : 144|300, iter : 0100|0202,  loss_l : 1.4599, loss_c : 1.9102
+epoch : 144|300, iter : 0150|0202,  loss_l : 1.4601, loss_c : 1.9102
+epoch : 144|300, iter : 0200|0202,  loss_l : 1.4588, loss_c : 1.9153
+ave_loss_l : 1.4586, ave_loss_c : 1.9144
+single epoch costs 12.8136 mins
+epoch : 145|300, iter : 0050|0202,  loss_l : 1.4261, loss_c : 1.9323
+epoch : 145|300, iter : 0100|0202,  loss_l : 1.4459, loss_c : 1.9213
+epoch : 145|300, iter : 0150|0202,  loss_l : 1.4489, loss_c : 1.9148
+epoch : 145|300, iter : 0200|0202,  loss_l : 1.4462, loss_c : 1.9113
+ave_loss_l : 1.4474, ave_loss_c : 1.9126
+single epoch costs 12.7940 mins
+epoch : 146|300, iter : 0050|0202,  loss_l : 1.4564, loss_c : 1.9154
+epoch : 146|300, iter : 0100|0202,  loss_l : 1.4635, loss_c : 1.9144
+epoch : 146|300, iter : 0150|0202,  loss_l : 1.4412, loss_c : 1.9025
+epoch : 146|300, iter : 0200|0202,  loss_l : 1.4415, loss_c : 1.9035
+ave_loss_l : 1.4424, ave_loss_c : 1.9039
+single epoch costs 12.7560 mins
+epoch : 147|300, iter : 0050|0202,  loss_l : 1.3837, loss_c : 1.8509
+epoch : 147|300, iter : 0100|0202,  loss_l : 1.4037, loss_c : 1.8799
+epoch : 147|300, iter : 0150|0202,  loss_l : 1.4191, loss_c : 1.8908
+epoch : 147|300, iter : 0200|0202,  loss_l : 1.4312, loss_c : 1.8960
+ave_loss_l : 1.4317, ave_loss_c : 1.8975
+single epoch costs 12.7065 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 148|300, iter : 0050|0202,  loss_l : 1.4442, loss_c : 1.9018
+epoch : 148|300, iter : 0100|0202,  loss_l : 1.4265, loss_c : 1.8960
+epoch : 148|300, iter : 0150|0202,  loss_l : 1.4357, loss_c : 1.9042
+epoch : 148|300, iter : 0200|0202,  loss_l : 1.4379, loss_c : 1.9041
+ave_loss_l : 1.4395, ave_loss_c : 1.9048
+single epoch costs 12.7215 mins
+epoch : 149|300, iter : 0050|0202,  loss_l : 1.4507, loss_c : 1.9261
+epoch : 149|300, iter : 0100|0202,  loss_l : 1.4462, loss_c : 1.9109
+epoch : 149|300, iter : 0150|0202,  loss_l : 1.4412, loss_c : 1.9060
+epoch : 149|300, iter : 0200|0202,  loss_l : 1.4293, loss_c : 1.9024
+ave_loss_l : 1.4279, ave_loss_c : 1.9009
+single epoch costs 12.6679 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 150|300, iter : 0050|0202,  loss_l : 1.4317, loss_c : 1.8798
+epoch : 150|300, iter : 0100|0202,  loss_l : 1.4391, loss_c : 1.9026
+epoch : 150|300, iter : 0150|0202,  loss_l : 1.4399, loss_c : 1.9022
+epoch : 150|300, iter : 0200|0202,  loss_l : 1.4475, loss_c : 1.9050
+ave_loss_l : 1.4466, ave_loss_c : 1.9059
+single epoch costs 12.7927 mins
+epoch : 151|300, iter : 0050|0202,  loss_l : 1.4559, loss_c : 1.9104
+epoch : 151|300, iter : 0100|0202,  loss_l : 1.4540, loss_c : 1.9111
+epoch : 151|300, iter : 0150|0202,  loss_l : 1.4521, loss_c : 1.9111
+epoch : 151|300, iter : 0200|0202,  loss_l : 1.4418, loss_c : 1.9050
+ave_loss_l : 1.4457, ave_loss_c : 1.9086
+single epoch costs 12.6694 mins
+epoch : 152|300, iter : 0050|0202,  loss_l : 1.4460, loss_c : 1.9139
+epoch : 152|300, iter : 0100|0202,  loss_l : 1.4416, loss_c : 1.9087
+epoch : 152|300, iter : 0150|0202,  loss_l : 1.4311, loss_c : 1.8982
+epoch : 152|300, iter : 0200|0202,  loss_l : 1.4298, loss_c : 1.8961
+ave_loss_l : 1.4299, ave_loss_c : 1.8972
+single epoch costs 12.7843 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 153|300, iter : 0050|0202,  loss_l : 1.4183, loss_c : 1.8877
+epoch : 153|300, iter : 0100|0202,  loss_l : 1.4312, loss_c : 1.8919
+epoch : 153|300, iter : 0150|0202,  loss_l : 1.4287, loss_c : 1.8946
+epoch : 153|300, iter : 0200|0202,  loss_l : 1.4323, loss_c : 1.8981
+ave_loss_l : 1.4330, ave_loss_c : 1.8993
+single epoch costs 12.7350 mins
+epoch : 154|300, iter : 0050|0202,  loss_l : 1.4063, loss_c : 1.8775
+epoch : 154|300, iter : 0100|0202,  loss_l : 1.4319, loss_c : 1.9154
+epoch : 154|300, iter : 0150|0202,  loss_l : 1.4322, loss_c : 1.9051
+epoch : 154|300, iter : 0200|0202,  loss_l : 1.4372, loss_c : 1.9135
+ave_loss_l : 1.4375, ave_loss_c : 1.9144
+single epoch costs 12.7133 mins
+epoch : 155|300, iter : 0050|0202,  loss_l : 1.4674, loss_c : 1.9333
+epoch : 155|300, iter : 0100|0202,  loss_l : 1.4599, loss_c : 1.9314
+epoch : 155|300, iter : 0150|0202,  loss_l : 1.4383, loss_c : 1.9056
+epoch : 155|300, iter : 0200|0202,  loss_l : 1.4377, loss_c : 1.9066
+ave_loss_l : 1.4384, ave_loss_c : 1.9090
+single epoch costs 12.6892 mins
+epoch : 156|300, iter : 0050|0202,  loss_l : 1.4435, loss_c : 1.9018
+epoch : 156|300, iter : 0100|0202,  loss_l : 1.4678, loss_c : 1.9278
+epoch : 156|300, iter : 0150|0202,  loss_l : 1.4476, loss_c : 1.9093
+epoch : 156|300, iter : 0200|0202,  loss_l : 1.4369, loss_c : 1.8977
+ave_loss_l : 1.4370, ave_loss_c : 1.8987
+single epoch costs 12.7658 mins
+epoch : 157|300, iter : 0050|0202,  loss_l : 1.4604, loss_c : 1.9389
+epoch : 157|300, iter : 0100|0202,  loss_l : 1.4171, loss_c : 1.8875
+epoch : 157|300, iter : 0150|0202,  loss_l : 1.4120, loss_c : 1.8788
+epoch : 157|300, iter : 0200|0202,  loss_l : 1.4144, loss_c : 1.8852
+ave_loss_l : 1.4176, ave_loss_c : 1.8883
+single epoch costs 12.7210 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 158|300, iter : 0050|0202,  loss_l : 1.4306, loss_c : 1.9187
+epoch : 158|300, iter : 0100|0202,  loss_l : 1.4423, loss_c : 1.9155
+epoch : 158|300, iter : 0150|0202,  loss_l : 1.4470, loss_c : 1.9209
+epoch : 158|300, iter : 0200|0202,  loss_l : 1.4404, loss_c : 1.9110
+ave_loss_l : 1.4404, ave_loss_c : 1.9109
+single epoch costs 12.8329 mins
+epoch : 159|300, iter : 0050|0202,  loss_l : 1.4054, loss_c : 1.8861
+epoch : 159|300, iter : 0100|0202,  loss_l : 1.4264, loss_c : 1.9051
+epoch : 159|300, iter : 0150|0202,  loss_l : 1.4409, loss_c : 1.9129
+epoch : 159|300, iter : 0200|0202,  loss_l : 1.4306, loss_c : 1.8993
+ave_loss_l : 1.4286, ave_loss_c : 1.8983
+single epoch costs 12.7361 mins
+epoch : 160|300, iter : 0050|0202,  loss_l : 1.4582, loss_c : 1.9190
+epoch : 160|300, iter : 0100|0202,  loss_l : 1.4096, loss_c : 1.8787
+epoch : 160|300, iter : 0150|0202,  loss_l : 1.4250, loss_c : 1.8874
+epoch : 160|300, iter : 0200|0202,  loss_l : 1.4197, loss_c : 1.8838
+ave_loss_l : 1.4183, ave_loss_c : 1.8829
+single epoch costs 12.7028 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 161|300, iter : 0050|0202,  loss_l : 1.4206, loss_c : 1.8969
+epoch : 161|300, iter : 0100|0202,  loss_l : 1.4194, loss_c : 1.8923
+epoch : 161|300, iter : 0150|0202,  loss_l : 1.4409, loss_c : 1.9110
+epoch : 161|300, iter : 0200|0202,  loss_l : 1.4396, loss_c : 1.9079
+ave_loss_l : 1.4412, ave_loss_c : 1.9088
+single epoch costs 12.7183 mins
+epoch : 162|300, iter : 0050|0202,  loss_l : 1.4192, loss_c : 1.8905
+epoch : 162|300, iter : 0100|0202,  loss_l : 1.4134, loss_c : 1.8854
+epoch : 162|300, iter : 0150|0202,  loss_l : 1.4212, loss_c : 1.8872
+epoch : 162|300, iter : 0200|0202,  loss_l : 1.4264, loss_c : 1.8927
+ave_loss_l : 1.4241, ave_loss_c : 1.8913
+single epoch costs 12.6830 mins
+epoch : 163|300, iter : 0050|0202,  loss_l : 1.4254, loss_c : 1.8727
+epoch : 163|300, iter : 0100|0202,  loss_l : 1.4225, loss_c : 1.8802
+epoch : 163|300, iter : 0150|0202,  loss_l : 1.4167, loss_c : 1.8779
+epoch : 163|300, iter : 0200|0202,  loss_l : 1.4261, loss_c : 1.8898
+ave_loss_l : 1.4237, ave_loss_c : 1.8875
+single epoch costs 12.7267 mins
+epoch : 164|300, iter : 0050|0202,  loss_l : 1.4417, loss_c : 1.9037
+epoch : 164|300, iter : 0100|0202,  loss_l : 1.4130, loss_c : 1.8786
+epoch : 164|300, iter : 0150|0202,  loss_l : 1.4385, loss_c : 1.8985
+epoch : 164|300, iter : 0200|0202,  loss_l : 1.4381, loss_c : 1.8999
+ave_loss_l : 1.4374, ave_loss_c : 1.8984
+single epoch costs 12.7501 mins
+epoch : 165|300, iter : 0050|0202,  loss_l : 1.3869, loss_c : 1.8620
+epoch : 165|300, iter : 0100|0202,  loss_l : 1.4114, loss_c : 1.8788
+epoch : 165|300, iter : 0150|0202,  loss_l : 1.4221, loss_c : 1.8853
+epoch : 165|300, iter : 0200|0202,  loss_l : 1.4301, loss_c : 1.8915
+ave_loss_l : 1.4307, ave_loss_c : 1.8924
+single epoch costs 12.7547 mins
+epoch : 166|300, iter : 0050|0202,  loss_l : 1.4482, loss_c : 1.9129
+epoch : 166|300, iter : 0100|0202,  loss_l : 1.4503, loss_c : 1.9034
+epoch : 166|300, iter : 0150|0202,  loss_l : 1.4565, loss_c : 1.9108
+epoch : 166|300, iter : 0200|0202,  loss_l : 1.4481, loss_c : 1.9070
+ave_loss_l : 1.4444, ave_loss_c : 1.9022
+single epoch costs 12.7878 mins
+epoch : 167|300, iter : 0050|0202,  loss_l : 1.3900, loss_c : 1.8650
+epoch : 167|300, iter : 0100|0202,  loss_l : 1.3954, loss_c : 1.8732
+epoch : 167|300, iter : 0150|0202,  loss_l : 1.4095, loss_c : 1.8786
+epoch : 167|300, iter : 0200|0202,  loss_l : 1.4208, loss_c : 1.8891
+ave_loss_l : 1.4171, ave_loss_c : 1.8859
+single epoch costs 12.7309 mins
+epoch : 168|300, iter : 0050|0202,  loss_l : 1.4269, loss_c : 1.8947
+epoch : 168|300, iter : 0100|0202,  loss_l : 1.4233, loss_c : 1.8917
+epoch : 168|300, iter : 0150|0202,  loss_l : 1.4145, loss_c : 1.8799
+epoch : 168|300, iter : 0200|0202,  loss_l : 1.4088, loss_c : 1.8779
+ave_loss_l : 1.4081, ave_loss_c : 1.8778
+single epoch costs 12.7857 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 169|300, iter : 0050|0202,  loss_l : 1.4239, loss_c : 1.8866
+epoch : 169|300, iter : 0100|0202,  loss_l : 1.4271, loss_c : 1.8854
+epoch : 169|300, iter : 0150|0202,  loss_l : 1.4210, loss_c : 1.8859
+epoch : 169|300, iter : 0200|0202,  loss_l : 1.4237, loss_c : 1.8919
+ave_loss_l : 1.4232, ave_loss_c : 1.8914
+single epoch costs 12.7984 mins
+epoch : 170|300, iter : 0050|0202,  loss_l : 1.4374, loss_c : 1.8985
+epoch : 170|300, iter : 0100|0202,  loss_l : 1.4400, loss_c : 1.9112
+epoch : 170|300, iter : 0150|0202,  loss_l : 1.4441, loss_c : 1.9150
+epoch : 170|300, iter : 0200|0202,  loss_l : 1.4393, loss_c : 1.9045
+ave_loss_l : 1.4409, ave_loss_c : 1.9061
+single epoch costs 12.7535 mins
+epoch : 171|300, iter : 0050|0202,  loss_l : 1.4094, loss_c : 1.8941
+epoch : 171|300, iter : 0100|0202,  loss_l : 1.4093, loss_c : 1.9014
+epoch : 171|300, iter : 0150|0202,  loss_l : 1.4123, loss_c : 1.8958
+epoch : 171|300, iter : 0200|0202,  loss_l : 1.4098, loss_c : 1.8899
+ave_loss_l : 1.4114, ave_loss_c : 1.8913
+single epoch costs 12.7014 mins
+epoch : 172|300, iter : 0050|0202,  loss_l : 1.3881, loss_c : 1.8585
+epoch : 172|300, iter : 0100|0202,  loss_l : 1.4043, loss_c : 1.8719
+epoch : 172|300, iter : 0150|0202,  loss_l : 1.4230, loss_c : 1.8858
+epoch : 172|300, iter : 0200|0202,  loss_l : 1.4266, loss_c : 1.8897
+ave_loss_l : 1.4259, ave_loss_c : 1.8889
+single epoch costs 12.7217 mins
+epoch : 173|300, iter : 0050|0202,  loss_l : 1.4346, loss_c : 1.8997
+epoch : 173|300, iter : 0100|0202,  loss_l : 1.3992, loss_c : 1.8724
+epoch : 173|300, iter : 0150|0202,  loss_l : 1.4066, loss_c : 1.8810
+epoch : 173|300, iter : 0200|0202,  loss_l : 1.4075, loss_c : 1.8800
+ave_loss_l : 1.4063, ave_loss_c : 1.8795
+single epoch costs 12.7515 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 174|300, iter : 0050|0202,  loss_l : 1.4062, loss_c : 1.8835
+epoch : 174|300, iter : 0100|0202,  loss_l : 1.4016, loss_c : 1.8708
+epoch : 174|300, iter : 0150|0202,  loss_l : 1.4019, loss_c : 1.8721
+epoch : 174|300, iter : 0200|0202,  loss_l : 1.4163, loss_c : 1.8814
+ave_loss_l : 1.4152, ave_loss_c : 1.8808
+single epoch costs 12.7017 mins
+epoch : 175|300, iter : 0050|0202,  loss_l : 1.4526, loss_c : 1.9167
+epoch : 175|300, iter : 0100|0202,  loss_l : 1.4351, loss_c : 1.9038
+epoch : 175|300, iter : 0150|0202,  loss_l : 1.4122, loss_c : 1.8771
+epoch : 175|300, iter : 0200|0202,  loss_l : 1.4103, loss_c : 1.8803
+ave_loss_l : 1.4122, ave_loss_c : 1.8811
+single epoch costs 12.6873 mins
+epoch : 176|300, iter : 0050|0202,  loss_l : 1.4356, loss_c : 1.9025
+epoch : 176|300, iter : 0100|0202,  loss_l : 1.4362, loss_c : 1.9063
+epoch : 176|300, iter : 0150|0202,  loss_l : 1.4260, loss_c : 1.8946
+epoch : 176|300, iter : 0200|0202,  loss_l : 1.4262, loss_c : 1.8906
+ave_loss_l : 1.4278, ave_loss_c : 1.8907
+single epoch costs 12.7061 mins
+epoch : 177|300, iter : 0050|0202,  loss_l : 1.4463, loss_c : 1.9003
+epoch : 177|300, iter : 0100|0202,  loss_l : 1.4183, loss_c : 1.8753
+epoch : 177|300, iter : 0150|0202,  loss_l : 1.4008, loss_c : 1.8673
+epoch : 177|300, iter : 0200|0202,  loss_l : 1.4127, loss_c : 1.8813
+ave_loss_l : 1.4136, ave_loss_c : 1.8840
+single epoch costs 12.6985 mins
+epoch : 178|300, iter : 0050|0202,  loss_l : 1.4081, loss_c : 1.8606
+epoch : 178|300, iter : 0100|0202,  loss_l : 1.4089, loss_c : 1.8728
+epoch : 178|300, iter : 0150|0202,  loss_l : 1.4273, loss_c : 1.8847
+epoch : 178|300, iter : 0200|0202,  loss_l : 1.4215, loss_c : 1.8825
+ave_loss_l : 1.4191, ave_loss_c : 1.8816
+single epoch costs 12.7573 mins
+epoch : 179|300, iter : 0050|0202,  loss_l : 1.4438, loss_c : 1.8816
+epoch : 179|300, iter : 0100|0202,  loss_l : 1.4187, loss_c : 1.8724
+epoch : 179|300, iter : 0150|0202,  loss_l : 1.4313, loss_c : 1.8819
+epoch : 179|300, iter : 0200|0202,  loss_l : 1.4293, loss_c : 1.8838
+ave_loss_l : 1.4260, ave_loss_c : 1.8807
+single epoch costs 12.6837 mins
+epoch : 180|300, iter : 0050|0202,  loss_l : 1.3798, loss_c : 1.8620
+epoch : 180|300, iter : 0100|0202,  loss_l : 1.3962, loss_c : 1.8749
+epoch : 180|300, iter : 0150|0202,  loss_l : 1.4015, loss_c : 1.8752
+epoch : 180|300, iter : 0200|0202,  loss_l : 1.4128, loss_c : 1.8802
+ave_loss_l : 1.4115, ave_loss_c : 1.8786
+single epoch costs 12.7747 mins
+epoch : 181|300, iter : 0050|0202,  loss_l : 1.4295, loss_c : 1.8808
+epoch : 181|300, iter : 0100|0202,  loss_l : 1.4136, loss_c : 1.8795
+epoch : 181|300, iter : 0150|0202,  loss_l : 1.4128, loss_c : 1.8845
+epoch : 181|300, iter : 0200|0202,  loss_l : 1.4102, loss_c : 1.8800
+ave_loss_l : 1.4090, ave_loss_c : 1.8790
+single epoch costs 12.7846 mins
+epoch : 182|300, iter : 0050|0202,  loss_l : 1.3963, loss_c : 1.8730
+epoch : 182|300, iter : 0100|0202,  loss_l : 1.3999, loss_c : 1.8574
+epoch : 182|300, iter : 0150|0202,  loss_l : 1.4034, loss_c : 1.8674
+epoch : 182|300, iter : 0200|0202,  loss_l : 1.4117, loss_c : 1.8727
+ave_loss_l : 1.4098, ave_loss_c : 1.8704
+single epoch costs 12.7650 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 183|300, iter : 0050|0202,  loss_l : 1.4016, loss_c : 1.8855
+epoch : 183|300, iter : 0100|0202,  loss_l : 1.4152, loss_c : 1.8875
+epoch : 183|300, iter : 0150|0202,  loss_l : 1.3962, loss_c : 1.8665
+epoch : 183|300, iter : 0200|0202,  loss_l : 1.4083, loss_c : 1.8771
+ave_loss_l : 1.4076, ave_loss_c : 1.8782
+single epoch costs 12.6699 mins
+epoch : 184|300, iter : 0050|0202,  loss_l : 1.4188, loss_c : 1.8958
+epoch : 184|300, iter : 0100|0202,  loss_l : 1.4233, loss_c : 1.8937
+epoch : 184|300, iter : 0150|0202,  loss_l : 1.4290, loss_c : 1.8925
+epoch : 184|300, iter : 0200|0202,  loss_l : 1.4244, loss_c : 1.8855
+ave_loss_l : 1.4260, ave_loss_c : 1.8857
+single epoch costs 12.7588 mins
+epoch : 185|300, iter : 0050|0202,  loss_l : 1.4087, loss_c : 1.8725
+epoch : 185|300, iter : 0100|0202,  loss_l : 1.4140, loss_c : 1.8835
+epoch : 185|300, iter : 0150|0202,  loss_l : 1.4168, loss_c : 1.8812
+epoch : 185|300, iter : 0200|0202,  loss_l : 1.4197, loss_c : 1.8840
+ave_loss_l : 1.4228, ave_loss_c : 1.8871
+single epoch costs 12.7435 mins
+epoch : 186|300, iter : 0050|0202,  loss_l : 1.3958, loss_c : 1.8610
+epoch : 186|300, iter : 0100|0202,  loss_l : 1.3996, loss_c : 1.8614
+epoch : 186|300, iter : 0150|0202,  loss_l : 1.3957, loss_c : 1.8632
+epoch : 186|300, iter : 0200|0202,  loss_l : 1.4028, loss_c : 1.8754
+ave_loss_l : 1.4050, ave_loss_c : 1.8781
+single epoch costs 12.7047 mins
+epoch : 187|300, iter : 0050|0202,  loss_l : 1.4067, loss_c : 1.8715
+epoch : 187|300, iter : 0100|0202,  loss_l : 1.4232, loss_c : 1.8883
+epoch : 187|300, iter : 0150|0202,  loss_l : 1.4217, loss_c : 1.8802
+epoch : 187|300, iter : 0200|0202,  loss_l : 1.4242, loss_c : 1.8856
+ave_loss_l : 1.4254, ave_loss_c : 1.8862
+single epoch costs 12.7305 mins
+epoch : 188|300, iter : 0050|0202,  loss_l : 1.4065, loss_c : 1.8883
+epoch : 188|300, iter : 0100|0202,  loss_l : 1.3896, loss_c : 1.8723
+epoch : 188|300, iter : 0150|0202,  loss_l : 1.4051, loss_c : 1.8816
+epoch : 188|300, iter : 0200|0202,  loss_l : 1.4010, loss_c : 1.8770
+ave_loss_l : 1.4011, ave_loss_c : 1.8764
+single epoch costs 12.7388 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 189|300, iter : 0050|0202,  loss_l : 1.3840, loss_c : 1.8689
+epoch : 189|300, iter : 0100|0202,  loss_l : 1.3881, loss_c : 1.8687
+epoch : 189|300, iter : 0150|0202,  loss_l : 1.3969, loss_c : 1.8688
+epoch : 189|300, iter : 0200|0202,  loss_l : 1.4027, loss_c : 1.8775
+ave_loss_l : 1.4029, ave_loss_c : 1.8772
+single epoch costs 12.6683 mins
+epoch : 190|300, iter : 0050|0202,  loss_l : 1.3905, loss_c : 1.8911
+epoch : 190|300, iter : 0100|0202,  loss_l : 1.3952, loss_c : 1.8825
+epoch : 190|300, iter : 0150|0202,  loss_l : 1.3977, loss_c : 1.8816
+epoch : 190|300, iter : 0200|0202,  loss_l : 1.3990, loss_c : 1.8789
+ave_loss_l : 1.4004, ave_loss_c : 1.8803
+single epoch costs 12.7408 mins
+epoch : 191|300, iter : 0050|0202,  loss_l : 1.3719, loss_c : 1.8551
+epoch : 191|300, iter : 0100|0202,  loss_l : 1.3858, loss_c : 1.8638
+epoch : 191|300, iter : 0150|0202,  loss_l : 1.3817, loss_c : 1.8577
+epoch : 191|300, iter : 0200|0202,  loss_l : 1.3983, loss_c : 1.8740
+ave_loss_l : 1.4017, ave_loss_c : 1.8759
+single epoch costs 12.8035 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 192|300, iter : 0050|0202,  loss_l : 1.4507, loss_c : 1.9046
+epoch : 192|300, iter : 0100|0202,  loss_l : 1.4183, loss_c : 1.8873
+epoch : 192|300, iter : 0150|0202,  loss_l : 1.4073, loss_c : 1.8776
+epoch : 192|300, iter : 0200|0202,  loss_l : 1.4063, loss_c : 1.8758
+ave_loss_l : 1.4069, ave_loss_c : 1.8765
+single epoch costs 12.7450 mins
+epoch : 193|300, iter : 0050|0202,  loss_l : 1.3979, loss_c : 1.8702
+epoch : 193|300, iter : 0100|0202,  loss_l : 1.3976, loss_c : 1.8661
+epoch : 193|300, iter : 0150|0202,  loss_l : 1.4044, loss_c : 1.8759
+epoch : 193|300, iter : 0200|0202,  loss_l : 1.4082, loss_c : 1.8773
+ave_loss_l : 1.4083, ave_loss_c : 1.8778
+single epoch costs 12.7432 mins
+epoch : 194|300, iter : 0050|0202,  loss_l : 1.4167, loss_c : 1.8903
+epoch : 194|300, iter : 0100|0202,  loss_l : 1.4059, loss_c : 1.8748
+epoch : 194|300, iter : 0150|0202,  loss_l : 1.4140, loss_c : 1.8821
+epoch : 194|300, iter : 0200|0202,  loss_l : 1.4194, loss_c : 1.8814
+ave_loss_l : 1.4214, ave_loss_c : 1.8831
+single epoch costs 12.7920 mins
+epoch : 195|300, iter : 0050|0202,  loss_l : 1.3690, loss_c : 1.8398
+epoch : 195|300, iter : 0100|0202,  loss_l : 1.3919, loss_c : 1.8554
+epoch : 195|300, iter : 0150|0202,  loss_l : 1.4009, loss_c : 1.8685
+epoch : 195|300, iter : 0200|0202,  loss_l : 1.4091, loss_c : 1.8725
+ave_loss_l : 1.4067, ave_loss_c : 1.8707
+single epoch costs 12.7045 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 196|300, iter : 0050|0202,  loss_l : 1.3973, loss_c : 1.8831
+epoch : 196|300, iter : 0100|0202,  loss_l : 1.3806, loss_c : 1.8647
+epoch : 196|300, iter : 0150|0202,  loss_l : 1.3833, loss_c : 1.8596
+epoch : 196|300, iter : 0200|0202,  loss_l : 1.3784, loss_c : 1.8524
+ave_loss_l : 1.3773, ave_loss_c : 1.8511
+single epoch costs 12.7647 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 197|300, iter : 0050|0202,  loss_l : 1.4075, loss_c : 1.8685
+epoch : 197|300, iter : 0100|0202,  loss_l : 1.4092, loss_c : 1.8739
+epoch : 197|300, iter : 0150|0202,  loss_l : 1.4046, loss_c : 1.8656
+epoch : 197|300, iter : 0200|0202,  loss_l : 1.4043, loss_c : 1.8645
+ave_loss_l : 1.4022, ave_loss_c : 1.8645
+single epoch costs 12.7928 mins
+epoch : 198|300, iter : 0050|0202,  loss_l : 1.3853, loss_c : 1.8917
+epoch : 198|300, iter : 0100|0202,  loss_l : 1.3970, loss_c : 1.8729
+epoch : 198|300, iter : 0150|0202,  loss_l : 1.3943, loss_c : 1.8718
+epoch : 198|300, iter : 0200|0202,  loss_l : 1.3919, loss_c : 1.8711
+ave_loss_l : 1.3909, ave_loss_c : 1.8721
+single epoch costs 12.7046 mins
+epoch : 199|300, iter : 0050|0202,  loss_l : 1.4040, loss_c : 1.8739
+epoch : 199|300, iter : 0100|0202,  loss_l : 1.4047, loss_c : 1.8885
+epoch : 199|300, iter : 0150|0202,  loss_l : 1.4213, loss_c : 1.8896
+epoch : 199|300, iter : 0200|0202,  loss_l : 1.4245, loss_c : 1.8930
+ave_loss_l : 1.4256, ave_loss_c : 1.8949
+single epoch costs 12.6564 mins
+epoch : 200|300, iter : 0050|0202,  loss_l : 1.3876, loss_c : 1.8592
+epoch : 200|300, iter : 0100|0202,  loss_l : 1.3703, loss_c : 1.8434
+epoch : 200|300, iter : 0150|0202,  loss_l : 1.3842, loss_c : 1.8577
+epoch : 200|300, iter : 0200|0202,  loss_l : 1.3706, loss_c : 1.8394
+ave_loss_l : 1.3694, ave_loss_c : 1.8374
+single epoch costs 12.7412 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 201|300, iter : 0050|0202,  loss_l : 1.3902, loss_c : 1.8911
+epoch : 201|300, iter : 0100|0202,  loss_l : 1.3796, loss_c : 1.8548
+epoch : 201|300, iter : 0150|0202,  loss_l : 1.3682, loss_c : 1.8364
+epoch : 201|300, iter : 0200|0202,  loss_l : 1.3670, loss_c : 1.8340
+ave_loss_l : 1.3655, ave_loss_c : 1.8337
+single epoch costs 12.7517 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 202|300, iter : 0050|0202,  loss_l : 1.3670, loss_c : 1.8617
+epoch : 202|300, iter : 0100|0202,  loss_l : 1.3528, loss_c : 1.8386
+epoch : 202|300, iter : 0150|0202,  loss_l : 1.3553, loss_c : 1.8323
+epoch : 202|300, iter : 0200|0202,  loss_l : 1.3532, loss_c : 1.8227
+ave_loss_l : 1.3512, ave_loss_c : 1.8215
+single epoch costs 12.7730 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 203|300, iter : 0050|0202,  loss_l : 1.3856, loss_c : 1.8496
+epoch : 203|300, iter : 0100|0202,  loss_l : 1.3712, loss_c : 1.8295
+epoch : 203|300, iter : 0150|0202,  loss_l : 1.3769, loss_c : 1.8366
+epoch : 203|300, iter : 0200|0202,  loss_l : 1.3673, loss_c : 1.8281
+ave_loss_l : 1.3684, ave_loss_c : 1.8292
+single epoch costs 12.6859 mins
+epoch : 204|300, iter : 0050|0202,  loss_l : 1.3771, loss_c : 1.8276
+epoch : 204|300, iter : 0100|0202,  loss_l : 1.3841, loss_c : 1.8463
+epoch : 204|300, iter : 0150|0202,  loss_l : 1.3758, loss_c : 1.8378
+epoch : 204|300, iter : 0200|0202,  loss_l : 1.3662, loss_c : 1.8345
+ave_loss_l : 1.3625, ave_loss_c : 1.8315
+single epoch costs 12.7211 mins
+epoch : 205|300, iter : 0050|0202,  loss_l : 1.3691, loss_c : 1.8442
+epoch : 205|300, iter : 0100|0202,  loss_l : 1.3634, loss_c : 1.8349
+epoch : 205|300, iter : 0150|0202,  loss_l : 1.3615, loss_c : 1.8313
+epoch : 205|300, iter : 0200|0202,  loss_l : 1.3545, loss_c : 1.8248
+ave_loss_l : 1.3549, ave_loss_c : 1.8259
+single epoch costs 12.7021 mins
+epoch : 206|300, iter : 0050|0202,  loss_l : 1.3511, loss_c : 1.8155
+epoch : 206|300, iter : 0100|0202,  loss_l : 1.3463, loss_c : 1.8126
+epoch : 206|300, iter : 0150|0202,  loss_l : 1.3461, loss_c : 1.8173
+epoch : 206|300, iter : 0200|0202,  loss_l : 1.3576, loss_c : 1.8300
+ave_loss_l : 1.3555, ave_loss_c : 1.8300
+single epoch costs 12.7839 mins
+epoch : 207|300, iter : 0050|0202,  loss_l : 1.3679, loss_c : 1.8276
+epoch : 207|300, iter : 0100|0202,  loss_l : 1.3587, loss_c : 1.8186
+epoch : 207|300, iter : 0150|0202,  loss_l : 1.3704, loss_c : 1.8342
+epoch : 207|300, iter : 0200|0202,  loss_l : 1.3580, loss_c : 1.8222
+ave_loss_l : 1.3561, ave_loss_c : 1.8194
+single epoch costs 12.7585 mins
+epoch : 208|300, iter : 0050|0202,  loss_l : 1.3038, loss_c : 1.7799
+epoch : 208|300, iter : 0100|0202,  loss_l : 1.3473, loss_c : 1.8164
+epoch : 208|300, iter : 0150|0202,  loss_l : 1.3506, loss_c : 1.8155
+epoch : 208|300, iter : 0200|0202,  loss_l : 1.3502, loss_c : 1.8157
+ave_loss_l : 1.3517, ave_loss_c : 1.8160
+single epoch costs 12.7327 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 209|300, iter : 0050|0202,  loss_l : 1.4137, loss_c : 1.8663
+epoch : 209|300, iter : 0100|0202,  loss_l : 1.3947, loss_c : 1.8495
+epoch : 209|300, iter : 0150|0202,  loss_l : 1.3811, loss_c : 1.8381
+epoch : 209|300, iter : 0200|0202,  loss_l : 1.3737, loss_c : 1.8321
+ave_loss_l : 1.3712, ave_loss_c : 1.8300
+single epoch costs 12.7152 mins
+epoch : 210|300, iter : 0050|0202,  loss_l : 1.3672, loss_c : 1.8353
+epoch : 210|300, iter : 0100|0202,  loss_l : 1.3549, loss_c : 1.8251
+epoch : 210|300, iter : 0150|0202,  loss_l : 1.3515, loss_c : 1.8269
+epoch : 210|300, iter : 0200|0202,  loss_l : 1.3495, loss_c : 1.8221
+ave_loss_l : 1.3467, ave_loss_c : 1.8191
+single epoch costs 12.7078 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 211|300, iter : 0050|0202,  loss_l : 1.3502, loss_c : 1.8131
+epoch : 211|300, iter : 0100|0202,  loss_l : 1.3541, loss_c : 1.8161
+epoch : 211|300, iter : 0150|0202,  loss_l : 1.3470, loss_c : 1.8136
+epoch : 211|300, iter : 0200|0202,  loss_l : 1.3501, loss_c : 1.8168
+ave_loss_l : 1.3506, ave_loss_c : 1.8181
+single epoch costs 12.8103 mins
+epoch : 212|300, iter : 0050|0202,  loss_l : 1.3529, loss_c : 1.8236
+epoch : 212|300, iter : 0100|0202,  loss_l : 1.3493, loss_c : 1.8170
+epoch : 212|300, iter : 0150|0202,  loss_l : 1.3533, loss_c : 1.8189
+epoch : 212|300, iter : 0200|0202,  loss_l : 1.3460, loss_c : 1.8146
+ave_loss_l : 1.3471, ave_loss_c : 1.8159
+single epoch costs 12.7505 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 213|300, iter : 0050|0202,  loss_l : 1.3645, loss_c : 1.8563
+epoch : 213|300, iter : 0100|0202,  loss_l : 1.3544, loss_c : 1.8344
+epoch : 213|300, iter : 0150|0202,  loss_l : 1.3360, loss_c : 1.8149
+epoch : 213|300, iter : 0200|0202,  loss_l : 1.3317, loss_c : 1.8083
+ave_loss_l : 1.3306, ave_loss_c : 1.8057
+single epoch costs 12.7627 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 214|300, iter : 0050|0202,  loss_l : 1.3621, loss_c : 1.8300
+epoch : 214|300, iter : 0100|0202,  loss_l : 1.3552, loss_c : 1.8203
+epoch : 214|300, iter : 0150|0202,  loss_l : 1.3453, loss_c : 1.8178
+epoch : 214|300, iter : 0200|0202,  loss_l : 1.3448, loss_c : 1.8132
+ave_loss_l : 1.3454, ave_loss_c : 1.8141
+single epoch costs 12.7405 mins
+epoch : 215|300, iter : 0050|0202,  loss_l : 1.3211, loss_c : 1.7905
+epoch : 215|300, iter : 0100|0202,  loss_l : 1.3206, loss_c : 1.7991
+epoch : 215|300, iter : 0150|0202,  loss_l : 1.3361, loss_c : 1.8121
+epoch : 215|300, iter : 0200|0202,  loss_l : 1.3389, loss_c : 1.8118
+ave_loss_l : 1.3371, ave_loss_c : 1.8120
+single epoch costs 12.7921 mins
+epoch : 216|300, iter : 0050|0202,  loss_l : 1.3634, loss_c : 1.8214
+epoch : 216|300, iter : 0100|0202,  loss_l : 1.3494, loss_c : 1.8089
+epoch : 216|300, iter : 0150|0202,  loss_l : 1.3403, loss_c : 1.8063
+epoch : 216|300, iter : 0200|0202,  loss_l : 1.3496, loss_c : 1.8183
+ave_loss_l : 1.3470, ave_loss_c : 1.8167
+single epoch costs 12.7805 mins
+epoch : 217|300, iter : 0050|0202,  loss_l : 1.3577, loss_c : 1.8227
+epoch : 217|300, iter : 0100|0202,  loss_l : 1.3717, loss_c : 1.8343
+epoch : 217|300, iter : 0150|0202,  loss_l : 1.3690, loss_c : 1.8304
+epoch : 217|300, iter : 0200|0202,  loss_l : 1.3597, loss_c : 1.8233
+ave_loss_l : 1.3616, ave_loss_c : 1.8262
+single epoch costs 12.7319 mins
+epoch : 218|300, iter : 0050|0202,  loss_l : 1.3629, loss_c : 1.8375
+epoch : 218|300, iter : 0100|0202,  loss_l : 1.3370, loss_c : 1.8043
+epoch : 218|300, iter : 0150|0202,  loss_l : 1.3499, loss_c : 1.8139
+epoch : 218|300, iter : 0200|0202,  loss_l : 1.3503, loss_c : 1.8198
+ave_loss_l : 1.3480, ave_loss_c : 1.8181
+single epoch costs 12.7695 mins
+epoch : 219|300, iter : 0050|0202,  loss_l : 1.3488, loss_c : 1.8270
+epoch : 219|300, iter : 0100|0202,  loss_l : 1.3598, loss_c : 1.8270
+epoch : 219|300, iter : 0150|0202,  loss_l : 1.3483, loss_c : 1.8166
+epoch : 219|300, iter : 0200|0202,  loss_l : 1.3483, loss_c : 1.8145
+ave_loss_l : 1.3503, ave_loss_c : 1.8158
+single epoch costs 12.7498 mins
+epoch : 220|300, iter : 0050|0202,  loss_l : 1.3679, loss_c : 1.8406
+epoch : 220|300, iter : 0100|0202,  loss_l : 1.3519, loss_c : 1.8232
+epoch : 220|300, iter : 0150|0202,  loss_l : 1.3591, loss_c : 1.8314
+epoch : 220|300, iter : 0200|0202,  loss_l : 1.3572, loss_c : 1.8280
+ave_loss_l : 1.3567, ave_loss_c : 1.8282
+single epoch costs 12.7067 mins
+epoch : 221|300, iter : 0050|0202,  loss_l : 1.3812, loss_c : 1.8377
+epoch : 221|300, iter : 0100|0202,  loss_l : 1.3543, loss_c : 1.8245
+epoch : 221|300, iter : 0150|0202,  loss_l : 1.3581, loss_c : 1.8306
+epoch : 221|300, iter : 0200|0202,  loss_l : 1.3475, loss_c : 1.8189
+ave_loss_l : 1.3494, ave_loss_c : 1.8194
+single epoch costs 12.7704 mins
+epoch : 222|300, iter : 0050|0202,  loss_l : 1.3640, loss_c : 1.8325
+epoch : 222|300, iter : 0100|0202,  loss_l : 1.3435, loss_c : 1.8113
+epoch : 222|300, iter : 0150|0202,  loss_l : 1.3536, loss_c : 1.8234
+epoch : 222|300, iter : 0200|0202,  loss_l : 1.3528, loss_c : 1.8225
+ave_loss_l : 1.3510, ave_loss_c : 1.8204
+single epoch costs 12.7299 mins
+epoch : 223|300, iter : 0050|0202,  loss_l : 1.3454, loss_c : 1.7934
+epoch : 223|300, iter : 0100|0202,  loss_l : 1.3531, loss_c : 1.8125
+epoch : 223|300, iter : 0150|0202,  loss_l : 1.3663, loss_c : 1.8267
+epoch : 223|300, iter : 0200|0202,  loss_l : 1.3597, loss_c : 1.8256
+ave_loss_l : 1.3607, ave_loss_c : 1.8264
+single epoch costs 12.7667 mins
+epoch : 224|300, iter : 0050|0202,  loss_l : 1.3442, loss_c : 1.8071
+epoch : 224|300, iter : 0100|0202,  loss_l : 1.3561, loss_c : 1.8191
+epoch : 224|300, iter : 0150|0202,  loss_l : 1.3449, loss_c : 1.8055
+epoch : 224|300, iter : 0200|0202,  loss_l : 1.3464, loss_c : 1.8089
+ave_loss_l : 1.3468, ave_loss_c : 1.8093
+single epoch costs 12.8532 mins
+epoch : 225|300, iter : 0050|0202,  loss_l : 1.3561, loss_c : 1.8224
+epoch : 225|300, iter : 0100|0202,  loss_l : 1.3551, loss_c : 1.8152
+epoch : 225|300, iter : 0150|0202,  loss_l : 1.3515, loss_c : 1.8128
+epoch : 225|300, iter : 0200|0202,  loss_l : 1.3468, loss_c : 1.8098
+ave_loss_l : 1.3469, ave_loss_c : 1.8103
+single epoch costs 12.7835 mins
+epoch : 226|300, iter : 0050|0202,  loss_l : 1.3637, loss_c : 1.8282
+epoch : 226|300, iter : 0100|0202,  loss_l : 1.3277, loss_c : 1.8035
+epoch : 226|300, iter : 0150|0202,  loss_l : 1.3297, loss_c : 1.7994
+epoch : 226|300, iter : 0200|0202,  loss_l : 1.3411, loss_c : 1.8091
+ave_loss_l : 1.3448, ave_loss_c : 1.8126
+single epoch costs 12.8271 mins
+epoch : 227|300, iter : 0050|0202,  loss_l : 1.3715, loss_c : 1.8309
+epoch : 227|300, iter : 0100|0202,  loss_l : 1.3499, loss_c : 1.8116
+epoch : 227|300, iter : 0150|0202,  loss_l : 1.3518, loss_c : 1.8197
+epoch : 227|300, iter : 0200|0202,  loss_l : 1.3513, loss_c : 1.8166
+ave_loss_l : 1.3487, ave_loss_c : 1.8148
+single epoch costs 12.7947 mins
+epoch : 228|300, iter : 0050|0202,  loss_l : 1.3322, loss_c : 1.8090
+epoch : 228|300, iter : 0100|0202,  loss_l : 1.3174, loss_c : 1.7977
+epoch : 228|300, iter : 0150|0202,  loss_l : 1.3306, loss_c : 1.8044
+epoch : 228|300, iter : 0200|0202,  loss_l : 1.3448, loss_c : 1.8158
+ave_loss_l : 1.3447, ave_loss_c : 1.8150
+single epoch costs 12.7852 mins
+epoch : 229|300, iter : 0050|0202,  loss_l : 1.3701, loss_c : 1.8571
+epoch : 229|300, iter : 0100|0202,  loss_l : 1.3675, loss_c : 1.8420
+epoch : 229|300, iter : 0150|0202,  loss_l : 1.3477, loss_c : 1.8256
+epoch : 229|300, iter : 0200|0202,  loss_l : 1.3306, loss_c : 1.8110
+ave_loss_l : 1.3275, ave_loss_c : 1.8081
+single epoch costs 12.8573 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 230|300, iter : 0050|0202,  loss_l : 1.2916, loss_c : 1.7600
+epoch : 230|300, iter : 0100|0202,  loss_l : 1.3390, loss_c : 1.7981
+epoch : 230|300, iter : 0150|0202,  loss_l : 1.3440, loss_c : 1.8071
+epoch : 230|300, iter : 0200|0202,  loss_l : 1.3313, loss_c : 1.8035
+ave_loss_l : 1.3318, ave_loss_c : 1.8047
+single epoch costs 12.7508 mins
+epoch : 231|300, iter : 0050|0202,  loss_l : 1.3636, loss_c : 1.8430
+epoch : 231|300, iter : 0100|0202,  loss_l : 1.3615, loss_c : 1.8396
+epoch : 231|300, iter : 0150|0202,  loss_l : 1.3666, loss_c : 1.8395
+epoch : 231|300, iter : 0200|0202,  loss_l : 1.3493, loss_c : 1.8216
+ave_loss_l : 1.3493, ave_loss_c : 1.8213
+single epoch costs 12.8846 mins
+epoch : 232|300, iter : 0050|0202,  loss_l : 1.3795, loss_c : 1.8407
+epoch : 232|300, iter : 0100|0202,  loss_l : 1.3582, loss_c : 1.8234
+epoch : 232|300, iter : 0150|0202,  loss_l : 1.3577, loss_c : 1.8217
+epoch : 232|300, iter : 0200|0202,  loss_l : 1.3569, loss_c : 1.8203
+ave_loss_l : 1.3547, ave_loss_c : 1.8171
+single epoch costs 12.8712 mins
+epoch : 233|300, iter : 0050|0202,  loss_l : 1.3174, loss_c : 1.8020
+epoch : 233|300, iter : 0100|0202,  loss_l : 1.3367, loss_c : 1.8048
+epoch : 233|300, iter : 0150|0202,  loss_l : 1.3519, loss_c : 1.8173
+epoch : 233|300, iter : 0200|0202,  loss_l : 1.3576, loss_c : 1.8206
+ave_loss_l : 1.3593, ave_loss_c : 1.8220
+single epoch costs 12.8059 mins
+epoch : 234|300, iter : 0050|0202,  loss_l : 1.3863, loss_c : 1.8640
+epoch : 234|300, iter : 0100|0202,  loss_l : 1.3622, loss_c : 1.8305
+epoch : 234|300, iter : 0150|0202,  loss_l : 1.3467, loss_c : 1.8175
+epoch : 234|300, iter : 0200|0202,  loss_l : 1.3451, loss_c : 1.8178
+ave_loss_l : 1.3426, ave_loss_c : 1.8154
+single epoch costs 12.7388 mins
+epoch : 235|300, iter : 0050|0202,  loss_l : 1.3479, loss_c : 1.8161
+epoch : 235|300, iter : 0100|0202,  loss_l : 1.3421, loss_c : 1.8191
+epoch : 235|300, iter : 0150|0202,  loss_l : 1.3472, loss_c : 1.8160
+epoch : 235|300, iter : 0200|0202,  loss_l : 1.3356, loss_c : 1.8067
+ave_loss_l : 1.3361, ave_loss_c : 1.8061
+single epoch costs 12.8644 mins
+epoch : 236|300, iter : 0050|0202,  loss_l : 1.3231, loss_c : 1.8116
+epoch : 236|300, iter : 0100|0202,  loss_l : 1.3246, loss_c : 1.7978
+epoch : 236|300, iter : 0150|0202,  loss_l : 1.3380, loss_c : 1.8045
+epoch : 236|300, iter : 0200|0202,  loss_l : 1.3417, loss_c : 1.8108
+ave_loss_l : 1.3430, ave_loss_c : 1.8122
+single epoch costs 12.7598 mins
+epoch : 237|300, iter : 0050|0202,  loss_l : 1.3433, loss_c : 1.8161
+epoch : 237|300, iter : 0100|0202,  loss_l : 1.3539, loss_c : 1.8296
+epoch : 237|300, iter : 0150|0202,  loss_l : 1.3448, loss_c : 1.8203
+epoch : 237|300, iter : 0200|0202,  loss_l : 1.3510, loss_c : 1.8210
+ave_loss_l : 1.3479, ave_loss_c : 1.8179
+single epoch costs 12.7920 mins
+epoch : 238|300, iter : 0050|0202,  loss_l : 1.3515, loss_c : 1.8277
+epoch : 238|300, iter : 0100|0202,  loss_l : 1.3467, loss_c : 1.8253
+epoch : 238|300, iter : 0150|0202,  loss_l : 1.3382, loss_c : 1.8144
+epoch : 238|300, iter : 0200|0202,  loss_l : 1.3453, loss_c : 1.8198
+ave_loss_l : 1.3481, ave_loss_c : 1.8229
+single epoch costs 12.8163 mins
+epoch : 239|300, iter : 0050|0202,  loss_l : 1.3735, loss_c : 1.8242
+epoch : 239|300, iter : 0100|0202,  loss_l : 1.3519, loss_c : 1.8168
+epoch : 239|300, iter : 0150|0202,  loss_l : 1.3620, loss_c : 1.8278
+epoch : 239|300, iter : 0200|0202,  loss_l : 1.3482, loss_c : 1.8162
+ave_loss_l : 1.3464, ave_loss_c : 1.8149
+single epoch costs 12.7594 mins
+epoch : 240|300, iter : 0050|0202,  loss_l : 1.3406, loss_c : 1.7947
+epoch : 240|300, iter : 0100|0202,  loss_l : 1.3435, loss_c : 1.8071
+epoch : 240|300, iter : 0150|0202,  loss_l : 1.3512, loss_c : 1.8135
+epoch : 240|300, iter : 0200|0202,  loss_l : 1.3483, loss_c : 1.8126
+ave_loss_l : 1.3461, ave_loss_c : 1.8113
+single epoch costs 12.8829 mins
+epoch : 241|300, iter : 0050|0202,  loss_l : 1.3433, loss_c : 1.8008
+epoch : 241|300, iter : 0100|0202,  loss_l : 1.3691, loss_c : 1.8272
+epoch : 241|300, iter : 0150|0202,  loss_l : 1.3468, loss_c : 1.8145
+epoch : 241|300, iter : 0200|0202,  loss_l : 1.3390, loss_c : 1.8078
+ave_loss_l : 1.3382, ave_loss_c : 1.8062
+single epoch costs 12.7511 mins
+epoch : 242|300, iter : 0050|0202,  loss_l : 1.3597, loss_c : 1.8339
+epoch : 242|300, iter : 0100|0202,  loss_l : 1.3490, loss_c : 1.8253
+epoch : 242|300, iter : 0150|0202,  loss_l : 1.3513, loss_c : 1.8252
+epoch : 242|300, iter : 0200|0202,  loss_l : 1.3488, loss_c : 1.8188
+ave_loss_l : 1.3501, ave_loss_c : 1.8193
+single epoch costs 12.7884 mins
+epoch : 243|300, iter : 0050|0202,  loss_l : 1.3603, loss_c : 1.8272
+epoch : 243|300, iter : 0100|0202,  loss_l : 1.3587, loss_c : 1.8166
+epoch : 243|300, iter : 0150|0202,  loss_l : 1.3655, loss_c : 1.8287
+epoch : 243|300, iter : 0200|0202,  loss_l : 1.3527, loss_c : 1.8207
+ave_loss_l : 1.3490, ave_loss_c : 1.8166
+single epoch costs 12.8538 mins
+epoch : 244|300, iter : 0050|0202,  loss_l : 1.3427, loss_c : 1.8145
+epoch : 244|300, iter : 0100|0202,  loss_l : 1.3127, loss_c : 1.7838
+epoch : 244|300, iter : 0150|0202,  loss_l : 1.3284, loss_c : 1.7956
+epoch : 244|300, iter : 0200|0202,  loss_l : 1.3351, loss_c : 1.8026
+ave_loss_l : 1.3335, ave_loss_c : 1.8014
+single epoch costs 12.7913 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 245|300, iter : 0050|0202,  loss_l : 1.3088, loss_c : 1.7711
+epoch : 245|300, iter : 0100|0202,  loss_l : 1.3236, loss_c : 1.7940
+epoch : 245|300, iter : 0150|0202,  loss_l : 1.3171, loss_c : 1.7901
+epoch : 245|300, iter : 0200|0202,  loss_l : 1.3329, loss_c : 1.8032
+ave_loss_l : 1.3327, ave_loss_c : 1.8032
+single epoch costs 12.6927 mins
+epoch : 246|300, iter : 0050|0202,  loss_l : 1.3183, loss_c : 1.7949
+epoch : 246|300, iter : 0100|0202,  loss_l : 1.3364, loss_c : 1.8128
+epoch : 246|300, iter : 0150|0202,  loss_l : 1.3310, loss_c : 1.8087
+epoch : 246|300, iter : 0200|0202,  loss_l : 1.3306, loss_c : 1.8040
+ave_loss_l : 1.3323, ave_loss_c : 1.8052
+single epoch costs 12.7318 mins
+epoch : 247|300, iter : 0050|0202,  loss_l : 1.3099, loss_c : 1.7998
+epoch : 247|300, iter : 0100|0202,  loss_l : 1.3179, loss_c : 1.7891
+epoch : 247|300, iter : 0150|0202,  loss_l : 1.3236, loss_c : 1.7965
+epoch : 247|300, iter : 0200|0202,  loss_l : 1.3363, loss_c : 1.8061
+ave_loss_l : 1.3355, ave_loss_c : 1.8058
+single epoch costs 12.7396 mins
+epoch : 248|300, iter : 0050|0202,  loss_l : 1.3297, loss_c : 1.7964
+epoch : 248|300, iter : 0100|0202,  loss_l : 1.3353, loss_c : 1.8090
+epoch : 248|300, iter : 0150|0202,  loss_l : 1.3425, loss_c : 1.8145
+epoch : 248|300, iter : 0200|0202,  loss_l : 1.3403, loss_c : 1.8117
+ave_loss_l : 1.3401, ave_loss_c : 1.8133
+single epoch costs 12.7086 mins
+epoch : 249|300, iter : 0050|0202,  loss_l : 1.3807, loss_c : 1.8480
+epoch : 249|300, iter : 0100|0202,  loss_l : 1.3742, loss_c : 1.8422
+epoch : 249|300, iter : 0150|0202,  loss_l : 1.3626, loss_c : 1.8297
+epoch : 249|300, iter : 0200|0202,  loss_l : 1.3609, loss_c : 1.8316
+ave_loss_l : 1.3648, ave_loss_c : 1.8348
+single epoch costs 12.7782 mins
+epoch : 250|300, iter : 0050|0202,  loss_l : 1.3093, loss_c : 1.7848
+epoch : 250|300, iter : 0100|0202,  loss_l : 1.3369, loss_c : 1.8103
+epoch : 250|300, iter : 0150|0202,  loss_l : 1.3407, loss_c : 1.8076
+epoch : 250|300, iter : 0200|0202,  loss_l : 1.3418, loss_c : 1.8089
+ave_loss_l : 1.3437, ave_loss_c : 1.8108
+single epoch costs 12.7545 mins
+epoch : 251|300, iter : 0050|0202,  loss_l : 1.3489, loss_c : 1.8084
+epoch : 251|300, iter : 0100|0202,  loss_l : 1.3416, loss_c : 1.8086
+epoch : 251|300, iter : 0150|0202,  loss_l : 1.3459, loss_c : 1.8141
+epoch : 251|300, iter : 0200|0202,  loss_l : 1.3450, loss_c : 1.8119
+ave_loss_l : 1.3484, ave_loss_c : 1.8127
+single epoch costs 12.7528 mins
+epoch : 252|300, iter : 0050|0202,  loss_l : 1.2978, loss_c : 1.7671
+epoch : 252|300, iter : 0100|0202,  loss_l : 1.3203, loss_c : 1.7932
+epoch : 252|300, iter : 0150|0202,  loss_l : 1.3216, loss_c : 1.7933
+epoch : 252|300, iter : 0200|0202,  loss_l : 1.3201, loss_c : 1.7886
+ave_loss_l : 1.3207, ave_loss_c : 1.7897
+single epoch costs 12.7915 mins
+**************** Yahoo, SOTA model was updated ****************
+epoch : 253|300, iter : 0050|0202,  loss_l : 1.3056, loss_c : 1.7754
+epoch : 253|300, iter : 0100|0202,  loss_l : 1.3388, loss_c : 1.8083
+epoch : 253|300, iter : 0150|0202,  loss_l : 1.3375, loss_c : 1.8147
+epoch : 253|300, iter : 0200|0202,  loss_l : 1.3359, loss_c : 1.8119
+ave_loss_l : 1.3401, ave_loss_c : 1.8169
+single epoch costs 12.8279 mins
+epoch : 254|300, iter : 0050|0202,  loss_l : 1.3475, loss_c : 1.7953
+epoch : 254|300, iter : 0100|0202,  loss_l : 1.3424, loss_c : 1.7982
+epoch : 254|300, iter : 0150|0202,  loss_l : 1.3393, loss_c : 1.7989
+epoch : 254|300, iter : 0200|0202,  loss_l : 1.3312, loss_c : 1.7945
+ave_loss_l : 1.3323, ave_loss_c : 1.7960
+single epoch costs 12.7683 mins
+epoch : 255|300, iter : 0050|0202,  loss_l : 1.3376, loss_c : 1.8114
+epoch : 255|300, iter : 0100|0202,  loss_l : 1.3268, loss_c : 1.7969
+epoch : 255|300, iter : 0150|0202,  loss_l : 1.3260, loss_c : 1.7937
+epoch : 255|300, iter : 0200|0202,  loss_l : 1.3241, loss_c : 1.7948
+ave_loss_l : 1.3233, ave_loss_c : 1.7939
+single epoch costs 12.8359 mins
+epoch : 256|300, iter : 0050|0202,  loss_l : 1.3236, loss_c : 1.7992
+epoch : 256|300, iter : 0100|0202,  loss_l : 1.3304, loss_c : 1.8003
+epoch : 256|300, iter : 0150|0202,  loss_l : 1.3336, loss_c : 1.7982
+epoch : 256|300, iter : 0200|0202,  loss_l : 1.3362, loss_c : 1.8017
+ave_loss_l : 1.3347, ave_loss_c : 1.8007
+single epoch costs 12.7224 mins
+epoch : 257|300, iter : 0050|0202,  loss_l : 1.3859, loss_c : 1.8410
+epoch : 257|300, iter : 0100|0202,  loss_l : 1.3550, loss_c : 1.8128
+epoch : 257|300, iter : 0150|0202,  loss_l : 1.3456, loss_c : 1.8050
+epoch : 257|300, iter : 0200|0202,  loss_l : 1.3518, loss_c : 1.8143
+ave_loss_l : 1.3539, ave_loss_c : 1.8158
+single epoch costs 12.7866 mins
+epoch : 258|300, iter : 0050|0202,  loss_l : 1.3667, loss_c : 1.8316
+epoch : 258|300, iter : 0100|0202,  loss_l : 1.3426, loss_c : 1.8074
+epoch : 258|300, iter : 0150|0202,  loss_l : 1.3324, loss_c : 1.8043
+epoch : 258|300, iter : 0200|0202,  loss_l : 1.3307, loss_c : 1.8031
+ave_loss_l : 1.3299, ave_loss_c : 1.8033
+single epoch costs 12.8359 mins
+epoch : 259|300, iter : 0050|0202,  loss_l : 1.3706, loss_c : 1.8381
+epoch : 259|300, iter : 0100|0202,  loss_l : 1.3498, loss_c : 1.8200
+epoch : 259|300, iter : 0150|0202,  loss_l : 1.3248, loss_c : 1.8007
+epoch : 259|300, iter : 0200|0202,  loss_l : 1.3363, loss_c : 1.8132
+ave_loss_l : 1.3389, ave_loss_c : 1.8154
+single epoch costs 12.8643 mins
+epoch : 260|300, iter : 0050|0202,  loss_l : 1.3939, loss_c : 1.8420
+epoch : 260|300, iter : 0100|0202,  loss_l : 1.3643, loss_c : 1.8246
+epoch : 260|300, iter : 0150|0202,  loss_l : 1.3598, loss_c : 1.8265
+epoch : 260|300, iter : 0200|0202,  loss_l : 1.3438, loss_c : 1.8169
+ave_loss_l : 1.3401, ave_loss_c : 1.8142
+single epoch costs 12.7729 mins
+epoch : 261|300, iter : 0050|0202,  loss_l : 1.3141, loss_c : 1.7698
+epoch : 261|300, iter : 0100|0202,  loss_l : 1.3179, loss_c : 1.7856
+epoch : 261|300, iter : 0150|0202,  loss_l : 1.3264, loss_c : 1.7954
+epoch : 261|300, iter : 0200|0202,  loss_l : 1.3279, loss_c : 1.7956
+ave_loss_l : 1.3255, ave_loss_c : 1.7935
+single epoch costs 12.7920 mins
+epoch : 262|300, iter : 0050|0202,  loss_l : 1.3300, loss_c : 1.8056
+epoch : 262|300, iter : 0100|0202,  loss_l : 1.3391, loss_c : 1.8065
+epoch : 262|300, iter : 0150|0202,  loss_l : 1.3316, loss_c : 1.8043
+epoch : 262|300, iter : 0200|0202,  loss_l : 1.3294, loss_c : 1.8014
+ave_loss_l : 1.3266, ave_loss_c : 1.7983
+single epoch costs 12.8674 mins
+epoch : 263|300, iter : 0050|0202,  loss_l : 1.3309, loss_c : 1.7852
+epoch : 263|300, iter : 0100|0202,  loss_l : 1.3480, loss_c : 1.8088
+epoch : 263|300, iter : 0150|0202,  loss_l : 1.3406, loss_c : 1.8045
+epoch : 263|300, iter : 0200|0202,  loss_l : 1.3436, loss_c : 1.8101
+ave_loss_l : 1.3455, ave_loss_c : 1.8124
+single epoch costs 12.8432 mins
+epoch : 264|300, iter : 0050|0202,  loss_l : 1.3452, loss_c : 1.8178
+epoch : 264|300, iter : 0100|0202,  loss_l : 1.3280, loss_c : 1.8003
+epoch : 264|300, iter : 0150|0202,  loss_l : 1.3284, loss_c : 1.7997
+epoch : 264|300, iter : 0200|0202,  loss_l : 1.3271, loss_c : 1.7967
+ave_loss_l : 1.3261, ave_loss_c : 1.7949
+single epoch costs 12.8996 mins
+epoch : 265|300, iter : 0050|0202,  loss_l : 1.3372, loss_c : 1.8181
+epoch : 265|300, iter : 0100|0202,  loss_l : 1.3228, loss_c : 1.8018
+epoch : 265|300, iter : 0150|0202,  loss_l : 1.3363, loss_c : 1.8095
+epoch : 265|300, iter : 0200|0202,  loss_l : 1.3347, loss_c : 1.8044
+ave_loss_l : 1.3351, ave_loss_c : 1.8050
+single epoch costs 12.8471 mins
+epoch : 266|300, iter : 0050|0202,  loss_l : 1.3570, loss_c : 1.8373
+epoch : 266|300, iter : 0100|0202,  loss_l : 1.3449, loss_c : 1.8207
+epoch : 266|300, iter : 0150|0202,  loss_l : 1.3553, loss_c : 1.8265
+epoch : 266|300, iter : 0200|0202,  loss_l : 1.3445, loss_c : 1.8120
+ave_loss_l : 1.3429, ave_loss_c : 1.8092
+single epoch costs 12.8359 mins
+epoch : 267|300, iter : 0050|0202,  loss_l : 1.3741, loss_c : 1.8298
+epoch : 267|300, iter : 0100|0202,  loss_l : 1.3393, loss_c : 1.8103
+epoch : 267|300, iter : 0150|0202,  loss_l : 1.3380, loss_c : 1.8027
+epoch : 267|300, iter : 0200|0202,  loss_l : 1.3389, loss_c : 1.8074
+ave_loss_l : 1.3374, ave_loss_c : 1.8060
+single epoch costs 12.7990 mins
+epoch : 268|300, iter : 0050|0202,  loss_l : 1.3387, loss_c : 1.8156
+epoch : 268|300, iter : 0100|0202,  loss_l : 1.3459, loss_c : 1.8142
+epoch : 268|300, iter : 0150|0202,  loss_l : 1.3303, loss_c : 1.8044
+epoch : 268|300, iter : 0200|0202,  loss_l : 1.3307, loss_c : 1.8032
+ave_loss_l : 1.3330, ave_loss_c : 1.8044
+single epoch costs 12.8741 mins
+epoch : 269|300, iter : 0050|0202,  loss_l : 1.3481, loss_c : 1.8161
+epoch : 269|300, iter : 0100|0202,  loss_l : 1.3381, loss_c : 1.8127
+epoch : 269|300, iter : 0150|0202,  loss_l : 1.3319, loss_c : 1.8062
+epoch : 269|300, iter : 0200|0202,  loss_l : 1.3401, loss_c : 1.8117
+ave_loss_l : 1.3409, ave_loss_c : 1.8134
+single epoch costs 12.8233 mins
+epoch : 270|300, iter : 0050|0202,  loss_l : 1.3103, loss_c : 1.7825
+epoch : 270|300, iter : 0100|0202,  loss_l : 1.3288, loss_c : 1.7973
+epoch : 270|300, iter : 0150|0202,  loss_l : 1.3244, loss_c : 1.7918
+epoch : 270|300, iter : 0200|0202,  loss_l : 1.3346, loss_c : 1.8042
+ave_loss_l : 1.3330, ave_loss_c : 1.8037
+single epoch costs 12.8265 mins
+epoch : 271|300, iter : 0050|0202,  loss_l : 1.3054, loss_c : 1.7721
+epoch : 271|300, iter : 0100|0202,  loss_l : 1.3205, loss_c : 1.7974
+epoch : 271|300, iter : 0150|0202,  loss_l : 1.3271, loss_c : 1.7965
+epoch : 271|300, iter : 0200|0202,  loss_l : 1.3340, loss_c : 1.8054
+ave_loss_l : 1.3320, ave_loss_c : 1.8029
+single epoch costs 12.8912 mins
+epoch : 272|300, iter : 0050|0202,  loss_l : 1.3160, loss_c : 1.7774
+epoch : 272|300, iter : 0100|0202,  loss_l : 1.3128, loss_c : 1.7690
+epoch : 272|300, iter : 0150|0202,  loss_l : 1.3349, loss_c : 1.7960
+epoch : 272|300, iter : 0200|0202,  loss_l : 1.3409, loss_c : 1.8067
+ave_loss_l : 1.3428, ave_loss_c : 1.8091
+single epoch costs 12.7939 mins
+epoch : 273|300, iter : 0050|0202,  loss_l : 1.3461, loss_c : 1.8138
+epoch : 273|300, iter : 0100|0202,  loss_l : 1.3238, loss_c : 1.7938
+epoch : 273|300, iter : 0150|0202,  loss_l : 1.3325, loss_c : 1.8043
+epoch : 273|300, iter : 0200|0202,  loss_l : 1.3385, loss_c : 1.8106
+ave_loss_l : 1.3374, ave_loss_c : 1.8088
+single epoch costs 12.8416 mins
+epoch : 274|300, iter : 0050|0202,  loss_l : 1.3416, loss_c : 1.8156
+epoch : 274|300, iter : 0100|0202,  loss_l : 1.3545, loss_c : 1.8297
+epoch : 274|300, iter : 0150|0202,  loss_l : 1.3427, loss_c : 1.8102
+epoch : 274|300, iter : 0200|0202,  loss_l : 1.3355, loss_c : 1.8071
+ave_loss_l : 1.3380, ave_loss_c : 1.8085
+single epoch costs 12.8047 mins
+epoch : 275|300, iter : 0050|0202,  loss_l : 1.3493, loss_c : 1.8325
+epoch : 275|300, iter : 0100|0202,  loss_l : 1.3390, loss_c : 1.8153
+epoch : 275|300, iter : 0150|0202,  loss_l : 1.3365, loss_c : 1.8086
+epoch : 275|300, iter : 0200|0202,  loss_l : 1.3292, loss_c : 1.7994
+ave_loss_l : 1.3301, ave_loss_c : 1.7984
+single epoch costs 12.7990 mins
+epoch : 276|300, iter : 0050|0202,  loss_l : 1.3522, loss_c : 1.8249
+epoch : 276|300, iter : 0100|0202,  loss_l : 1.3529, loss_c : 1.8217
+epoch : 276|300, iter : 0150|0202,  loss_l : 1.3469, loss_c : 1.8121
+epoch : 276|300, iter : 0200|0202,  loss_l : 1.3397, loss_c : 1.8086
+ave_loss_l : 1.3396, ave_loss_c : 1.8079
+single epoch costs 12.8207 mins
+epoch : 277|300, iter : 0050|0202,  loss_l : 1.3421, loss_c : 1.7892
+epoch : 277|300, iter : 0100|0202,  loss_l : 1.3462, loss_c : 1.8028
+epoch : 277|300, iter : 0150|0202,  loss_l : 1.3380, loss_c : 1.7972
+epoch : 277|300, iter : 0200|0202,  loss_l : 1.3426, loss_c : 1.8029
+ave_loss_l : 1.3428, ave_loss_c : 1.8041
+single epoch costs 12.9068 mins
+epoch : 278|300, iter : 0050|0202,  loss_l : 1.3248, loss_c : 1.7832
+epoch : 278|300, iter : 0100|0202,  loss_l : 1.3243, loss_c : 1.7835
+epoch : 278|300, iter : 0150|0202,  loss_l : 1.3226, loss_c : 1.7898
+epoch : 278|300, iter : 0200|0202,  loss_l : 1.3328, loss_c : 1.8005
+ave_loss_l : 1.3307, ave_loss_c : 1.7978
+single epoch costs 12.8397 mins
+epoch : 279|300, iter : 0050|0202,  loss_l : 1.3962, loss_c : 1.8432
+epoch : 279|300, iter : 0100|0202,  loss_l : 1.3669, loss_c : 1.8192
+epoch : 279|300, iter : 0150|0202,  loss_l : 1.3526, loss_c : 1.8078
+epoch : 279|300, iter : 0200|0202,  loss_l : 1.3430, loss_c : 1.8041
+ave_loss_l : 1.3445, ave_loss_c : 1.8054
+single epoch costs 12.8479 mins
+epoch : 280|300, iter : 0050|0202,  loss_l : 1.3104, loss_c : 1.7846
+epoch : 280|300, iter : 0100|0202,  loss_l : 1.3181, loss_c : 1.7848
+epoch : 280|300, iter : 0150|0202,  loss_l : 1.3238, loss_c : 1.7877
+epoch : 280|300, iter : 0200|0202,  loss_l : 1.3371, loss_c : 1.7991
+ave_loss_l : 1.3379, ave_loss_c : 1.8006
+single epoch costs 12.7938 mins
+epoch : 281|300, iter : 0050|0202,  loss_l : 1.3747, loss_c : 1.8519
+epoch : 281|300, iter : 0100|0202,  loss_l : 1.3567, loss_c : 1.8308
+epoch : 281|300, iter : 0150|0202,  loss_l : 1.3354, loss_c : 1.8056
+epoch : 281|300, iter : 0200|0202,  loss_l : 1.3339, loss_c : 1.7995
+ave_loss_l : 1.3335, ave_loss_c : 1.7997
+single epoch costs 12.8648 mins
+epoch : 282|300, iter : 0050|0202,  loss_l : 1.3072, loss_c : 1.7832
+epoch : 282|300, iter : 0100|0202,  loss_l : 1.3090, loss_c : 1.7830
+epoch : 282|300, iter : 0150|0202,  loss_l : 1.3180, loss_c : 1.7875
+epoch : 282|300, iter : 0200|0202,  loss_l : 1.3281, loss_c : 1.7954
+ave_loss_l : 1.3247, ave_loss_c : 1.7932
+single epoch costs 12.8135 mins
+epoch : 283|300, iter : 0050|0202,  loss_l : 1.3216, loss_c : 1.7920
+epoch : 283|300, iter : 0100|0202,  loss_l : 1.3169, loss_c : 1.7934
+epoch : 283|300, iter : 0150|0202,  loss_l : 1.3239, loss_c : 1.7929
+epoch : 283|300, iter : 0200|0202,  loss_l : 1.3271, loss_c : 1.7999
+ave_loss_l : 1.3270, ave_loss_c : 1.8000
+single epoch costs 12.7888 mins
+epoch : 284|300, iter : 0050|0202,  loss_l : 1.3511, loss_c : 1.8296
+epoch : 284|300, iter : 0100|0202,  loss_l : 1.3539, loss_c : 1.8271
+epoch : 284|300, iter : 0150|0202,  loss_l : 1.3355, loss_c : 1.8082
+epoch : 284|300, iter : 0200|0202,  loss_l : 1.3379, loss_c : 1.8088
+ave_loss_l : 1.3364, ave_loss_c : 1.8073
+single epoch costs 12.7046 mins
+epoch : 285|300, iter : 0050|0202,  loss_l : 1.3723, loss_c : 1.8458
+epoch : 285|300, iter : 0100|0202,  loss_l : 1.3549, loss_c : 1.8343
+epoch : 285|300, iter : 0150|0202,  loss_l : 1.3426, loss_c : 1.8232
+epoch : 285|300, iter : 0200|0202,  loss_l : 1.3366, loss_c : 1.8156
+ave_loss_l : 1.3343, ave_loss_c : 1.8139
+single epoch costs 12.9246 mins
+epoch : 286|300, iter : 0050|0202,  loss_l : 1.3366, loss_c : 1.8021
+epoch : 286|300, iter : 0100|0202,  loss_l : 1.3609, loss_c : 1.8217
+epoch : 286|300, iter : 0150|0202,  loss_l : 1.3521, loss_c : 1.8148
+epoch : 286|300, iter : 0200|0202,  loss_l : 1.3413, loss_c : 1.8098
+ave_loss_l : 1.3428, ave_loss_c : 1.8136
+single epoch costs 12.8457 mins
+epoch : 287|300, iter : 0050|0202,  loss_l : 1.2947, loss_c : 1.7834
+epoch : 287|300, iter : 0100|0202,  loss_l : 1.3249, loss_c : 1.8058
+epoch : 287|300, iter : 0150|0202,  loss_l : 1.3174, loss_c : 1.8009
+epoch : 287|300, iter : 0200|0202,  loss_l : 1.3315, loss_c : 1.8087
+ave_loss_l : 1.3299, ave_loss_c : 1.8070
+single epoch costs 12.7881 mins
+epoch : 288|300, iter : 0050|0202,  loss_l : 1.3454, loss_c : 1.8305
+epoch : 288|300, iter : 0100|0202,  loss_l : 1.3275, loss_c : 1.8085
+epoch : 288|300, iter : 0150|0202,  loss_l : 1.3298, loss_c : 1.8033
+epoch : 288|300, iter : 0200|0202,  loss_l : 1.3365, loss_c : 1.8071
+ave_loss_l : 1.3341, ave_loss_c : 1.8052
+single epoch costs 12.8498 mins
+epoch : 289|300, iter : 0050|0202,  loss_l : 1.3013, loss_c : 1.7854
+epoch : 289|300, iter : 0100|0202,  loss_l : 1.3363, loss_c : 1.8168
+epoch : 289|300, iter : 0150|0202,  loss_l : 1.3480, loss_c : 1.8201
+epoch : 289|300, iter : 0200|0202,  loss_l : 1.3339, loss_c : 1.8043
+ave_loss_l : 1.3347, ave_loss_c : 1.8055
+single epoch costs 12.8267 mins
+epoch : 290|300, iter : 0050|0202,  loss_l : 1.3492, loss_c : 1.8347
+epoch : 290|300, iter : 0100|0202,  loss_l : 1.3484, loss_c : 1.8261
+epoch : 290|300, iter : 0150|0202,  loss_l : 1.3361, loss_c : 1.8137
+epoch : 290|300, iter : 0200|0202,  loss_l : 1.3375, loss_c : 1.8112
+ave_loss_l : 1.3373, ave_loss_c : 1.8101
+single epoch costs 12.8090 mins
+epoch : 291|300, iter : 0050|0202,  loss_l : 1.3816, loss_c : 1.8355
+epoch : 291|300, iter : 0100|0202,  loss_l : 1.3622, loss_c : 1.8240
+epoch : 291|300, iter : 0150|0202,  loss_l : 1.3492, loss_c : 1.8140
+epoch : 291|300, iter : 0200|0202,  loss_l : 1.3460, loss_c : 1.8120
+ave_loss_l : 1.3476, ave_loss_c : 1.8157
+single epoch costs 12.7669 mins
+epoch : 292|300, iter : 0050|0202,  loss_l : 1.2986, loss_c : 1.7753
+epoch : 292|300, iter : 0100|0202,  loss_l : 1.3167, loss_c : 1.7938
+epoch : 292|300, iter : 0150|0202,  loss_l : 1.3258, loss_c : 1.8027
+epoch : 292|300, iter : 0200|0202,  loss_l : 1.3223, loss_c : 1.7936
+ave_loss_l : 1.3235, ave_loss_c : 1.7958
+single epoch costs 12.8186 mins
+epoch : 293|300, iter : 0050|0202,  loss_l : 1.3494, loss_c : 1.8052
+epoch : 293|300, iter : 0100|0202,  loss_l : 1.3580, loss_c : 1.8158
+epoch : 293|300, iter : 0150|0202,  loss_l : 1.3383, loss_c : 1.8019
+epoch : 293|300, iter : 0200|0202,  loss_l : 1.3533, loss_c : 1.8169
+ave_loss_l : 1.3524, ave_loss_c : 1.8164
+single epoch costs 12.7672 mins
+epoch : 294|300, iter : 0050|0202,  loss_l : 1.3014, loss_c : 1.7729
+epoch : 294|300, iter : 0100|0202,  loss_l : 1.3265, loss_c : 1.7961
+epoch : 294|300, iter : 0150|0202,  loss_l : 1.3325, loss_c : 1.8004
+epoch : 294|300, iter : 0200|0202,  loss_l : 1.3365, loss_c : 1.8033
+ave_loss_l : 1.3374, ave_loss_c : 1.8042
+single epoch costs 12.7904 mins
+epoch : 295|300, iter : 0050|0202,  loss_l : 1.3538, loss_c : 1.8280
+epoch : 295|300, iter : 0100|0202,  loss_l : 1.3357, loss_c : 1.8022
+epoch : 295|300, iter : 0150|0202,  loss_l : 1.3316, loss_c : 1.7955
+epoch : 295|300, iter : 0200|0202,  loss_l : 1.3403, loss_c : 1.8087
+ave_loss_l : 1.3386, ave_loss_c : 1.8070
+single epoch costs 12.8328 mins
+epoch : 296|300, iter : 0050|0202,  loss_l : 1.3115, loss_c : 1.7630
+epoch : 296|300, iter : 0100|0202,  loss_l : 1.3295, loss_c : 1.8016
+epoch : 296|300, iter : 0150|0202,  loss_l : 1.3391, loss_c : 1.8123
+epoch : 296|300, iter : 0200|0202,  loss_l : 1.3260, loss_c : 1.8078
+ave_loss_l : 1.3251, ave_loss_c : 1.8062
+single epoch costs 12.8791 mins
+epoch : 297|300, iter : 0050|0202,  loss_l : 1.3049, loss_c : 1.7834
+epoch : 297|300, iter : 0100|0202,  loss_l : 1.3268, loss_c : 1.8063
+epoch : 297|300, iter : 0150|0202,  loss_l : 1.3280, loss_c : 1.8016
+epoch : 297|300, iter : 0200|0202,  loss_l : 1.3341, loss_c : 1.8039
+ave_loss_l : 1.3359, ave_loss_c : 1.8064
+single epoch costs 12.7486 mins
+epoch : 298|300, iter : 0050|0202,  loss_l : 1.3436, loss_c : 1.8086
+epoch : 298|300, iter : 0100|0202,  loss_l : 1.3298, loss_c : 1.8058
+epoch : 298|300, iter : 0150|0202,  loss_l : 1.3411, loss_c : 1.8131
+epoch : 298|300, iter : 0200|0202,  loss_l : 1.3351, loss_c : 1.8051
+ave_loss_l : 1.3361, ave_loss_c : 1.8065
+single epoch costs 12.8510 mins
+epoch : 299|300, iter : 0050|0202,  loss_l : 1.3196, loss_c : 1.8023
+epoch : 299|300, iter : 0100|0202,  loss_l : 1.3106, loss_c : 1.7849
+epoch : 299|300, iter : 0150|0202,  loss_l : 1.3233, loss_c : 1.7909
+epoch : 299|300, iter : 0200|0202,  loss_l : 1.3282, loss_c : 1.7957
+ave_loss_l : 1.3279, ave_loss_c : 1.7972
+single epoch costs 12.9463 mins
+epoch : 300|300, iter : 0050|0202,  loss_l : 1.3195, loss_c : 1.7865
+epoch : 300|300, iter : 0100|0202,  loss_l : 1.3488, loss_c : 1.8171
+epoch : 300|300, iter : 0150|0202,  loss_l : 1.3450, loss_c : 1.8123
+epoch : 300|300, iter : 0200|0202,  loss_l : 1.3274, loss_c : 1.7978
+ave_loss_l : 1.3289, ave_loss_c : 1.7998
+single epoch costs 12.8221 mins
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.7/shutil.py", line 480, in rmtree
+    orig_st = os.lstat(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/tmp/matplotlib-s5fymg45'
